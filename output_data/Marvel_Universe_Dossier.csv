@@ -1,0 +1,537 @@
+,CASE ID,TARGET,CODENAME,REAL NAME,KNOWN ALIASES,ALIGNMENT,EYES/HAIR,SEX,CURRENT STATUS,INTELLIGENCE,STRENGTH,SPEED,DURABILITY,ENERGY,FIGHTING,FIRST OBSERVED,DOCUMENTED STORIES,DETAILED FILE,MUGSHOT
+0,1009610,Spider-Man ,Spider-Man,Peter Benjamin Parker,"Amazing Bag-Man, Amazing Spider-Man, The Amazing Gliding Spider-Man, Ant-Man, Arachnid, Ben Parker MD, Ben Reilly, Black Marvel, Bombastic Bag-Man, Boy Scout, Bug/The Bug, Bug-Boy, Bug-Man, Bug Man, Captain Klutz, Captain Universe, Challenger, Champion of Life, Daredevil, Deadpool, Devil Man, Doctor Octopus, Dusk, Flash Thompson, Fred, Friendly Neighborhood Doc Ock, Friendly Neighborhood Hardcase, Friendly Neighborhood Spider-Man, Friendly Neighborhood Spider-Vamp, Fly-Guy, Green Hood, Harvey The Wonder Hamster, Hornet, Insect, Iron Spider, Jamie Madrox, Jay Jameson, Joe Piscopo, John Doe, Johnny Parker, Junior, Kamala Khan, Leo DiCaprio, The Liar, Luke Skywalker, Mad Dog 336, Man-Spider, Masked Marvel, Mantis-Boy, ""Midtown High's Only Professional Wallflower,"" Mister Porker /Porter /Palmer /Parkins /Parsons /Pearson, Mr. Cartwright, Mr. Jameson, Mr. Man, Mr. Simmons, Ms. Marvel, Mud, Neighborly Friendly Spider-Man, Panty-Waist Parker, Parkman, Parker Peterson, Paul, Pekar, Pete, Peter Morgan, Peter Palmer, Peter Parkinson, Peter Perkins, Petey, 'Pidey, Prodigy, Professor S, Professor Serious Brain, Punisher, Puny Parker, Red Demon, Ricochet, Rubber Band Guy, Scarlet Spider, Scoopy, S-Man, Spectacular Spider-Man, Spidaman Spider, Spider-Boy, Spider-Cicle, Spider-Coward, Spider-Demon, Spider Devil, Spider-Fool, Spider-Hulk, Spider-Kang-Man, Spider-Lizard, Spiderman, Spider-Man of Neighborhood Number 1139, Spider-Mariner, Spider-Morphosis, Spider-Pal, Spider-Pest, Spider-Phoenix, Spider-President, Spider-Tracer Killer, Spider-X-Man, Spidey, Spidey II, Superior Spider-Man, Tiger, Unca Spidey, Wall-Crawler, Wallcrawler, Web-Boy, Web-Butt, Web Crawler, Webhead, Web-Slinger, Web Spinner, Web-Spinner, Wolverine,",Good ,Hazel / Brown ,Male ,Living ,4.0,4.0,3.0,3.0,1.0,4.0,Aug-62,http://marvel.com/comics/characters/1009610/spider-man?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Peter_Parker_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg
+1,1009220,Captain America ,Captain America,"Steven ""Steve"" Rogers","Anthony Schwarz, Blondie, The Blue Devil, Brett Hendrick, The Brooklyn Project, Buck Jones, Captain Flagpole, Captain World, Cap-Wolf, Crossbones, Eagle, Expatriate, The First Avenger, Flag Boy, Flag-Face, Flag-Man, General Overview, Grampa Steve, Granny, He Whose Name Should Not Be Stated Aloud, Kapitan Amerika, The Living legend, Lord of the Frozen Ice, Man Out of Time, The Man Without a Country, Mister Avenger, Mortal Enemy of HYDRA, Nathan Hale, Nomad, Phoenix, Rembrandt, Roger Grant, Roger Stevens, Scourge of All That Is Evil, Sentinel of Liberty, Shield-Slinger, Sky King, Spider-King, Star-Spangled Avenger, Stevie, Steven Grant Rogers, Striped Crusader, Subject 223, Super-Soldier, 'Symbol of Freedom', The Captain, Weapon I, Winghead, Wing-Tips, World's Top Cop, Yeoman America",Good ,Blue / White ,Male ,Living ,3.0,3.0,2.0,3.0,1.0,6.0,Mar-41,http://marvel.com/comics/characters/1009220/captain_america?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Captain_America_(Steven_Rogers),http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg
+2,1009718,Wolverine ,Wolverine,James Howlett,"Wolvermean, Agent Logan, Agent Ten, The Amazing Immortal Man, Angel, The Animal Man, Badger, Bear-Man of Swan Hills, Black Dragon, 'Bub', Canada, The Canadian Cannibal, Canucklehead, Captain Logan, Captain Terror, Chi, Chupacabra, Claw,  Claw-Lad, Claw-Man, Claws, Corporal Logan, Dark Phoenix, Death, Defender Of The Common Man, Emilio Garra, The Eternal Nemesis of the Hand, Experiment X, Ferret, Fist of Legend, Hand of God, Iron Man, Jimbo, Jim Logan, Jimmy-Boy, Little Uncle, Logan, Mai'keth, The Man From Up North, Master of the Chinatown Underworld, Midget, Midget Maniac, Mister Claremont, The Mutant Menace, Mutate #9601, Old Son, Patch, Patient X, Patient Zero, Peter Richards, Phoenix, Pipsqueak, Revolto the Clown, Runt, Short Stack, Shorty, Shrimp, Skunk, Skunk-Bear, Squirrel, Stench, Subject X, Tater, Tenth Man, Uncle Logan, The Unkillable Ronin of the West, Warthog Boy, Weapon Chi, Weapon Ten, Weapon X, Wildboy, Wild Man, Wolf-Boy, Wolvereen/Wolverein, Wolver-Mean, Wolvie, Wolvy",Neutral ,Blue / Black ,Male ,Living ,2.0,4.0,2.0,7.0,2.0,7.0,Oct-74,http://marvel.com/comics/characters/1009718/wolverine?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Wolverine_(James_%22Logan%22_Howlett),http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf.jpg
+3,1009368,Iron Man ,Iron Man,"Anthony Edward ""Tony"" Stark","Actor, Anthony of York, Antony, Armored Avenger, Bullet-Head, Boss Man, Brass Man, Crimson Dynamo, Cobalt Man, Director Anthony Stark, Director Stark, Electro, The Engineer, El Hombre de Hierro, Ferrous Fellow, General Patton, Golden Avenger, Golden Boy, Golden Gladiator, Hogan Potts, Howard Jarvis, Ice Age Man, I.Man, The Invincible Iron Man, Irena Manakov, Irene, Iron Gentleman, Iron Knight, Iron Pig, Kl'Riki Dulu, Kr'Ali, Lackey, Man of Iron, Martini, Mark, Mark One, Master of Machines, Metal Man, Mister Iron Guy, Mr. Man, Mister Robohoe, Randall Pierce, Richard Franco, Robot-Man, Shellhead, Space-Knight, Spare Parts Man, T, Tetsujin, Tin Man, Tones/Tone, Ultron",Good ,Blue / Black ,Male ,Living ,6.0,8.0,7.0,7.0,7.0,4.0,Mar-63,http://marvel.com/comics/characters/1009368/iron_man?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Iron_Man_(Anthony_%22Tony%22_Stark),http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55.jpg
+4,1009664,Thor ,Thor,Thor Odinson,"All-Father Thor, All-Father Odinson, Arkin Torsen, Arthur, Beowulf, Blond Hair, ""bork! borkborkbork!"", Brood of Thunder, Brood Thor, Deconsecrator, Donald M. Blake, Donar , The Gaea-Son, God of Lightning and Thunder, God of Thunder, The Golden Avenger, Hammer-Thrower, Herald of Thunder, Hloriddi, Hrodr's foeman, Jake Olson, Jormungand's Fear, King Thor, Lightning-Caller, The Lightning-Giver, Longbeard's Son, ""No-Name"", Phoenix-Son, The Scion of all Asgard, Siegfried, Siegmund, Sigurd Jarlson, Son of Earth, Son of Gaea, Son of Thunderbird, Sparkles, Storm-God, Thorr, Thunaer, Thunder Father, Thunderboy, The Thunderer, Uncle Thor, unhappy Hrungnir's playmate, Veur, Vingthor the Hurler",Good ,Blue / Blond ,Male ,Living ,2.0,7.0,7.0,6.0,6.0,4.0,Nov-50,http://marvel.com/comics/characters/1009664/thor?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Thor_(Thor_Odinson),http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350.jpg
+5,CLASSIFIED,Benjamin Grimm,The Thing,"Benjamin Jacob ""Ben"" Grimm","Angrir, Aunt Petunia's favorite nephew, B, Bashful Benjy, Benjamin J. Grimm, Benny,  Big Orange Stephen Hawking, Blackbeard the Pirate, Butch, Brick Man, Commander Benjamin J. Grimm, Count Crag, Dr. Josiah Verpoorteen, El Morrito, The Ever-Lovin' Blue-Eyed Thing, Grim Ben, Grimm Reaper, Immortal Thing, Orange Slice, Rock-Man, Rocky Grimm, Uncle Ben, Uncle Benjy",Good ,Blue / None ,Male ,Living ,3.0,6.0,2.0,6.0,1.0,5.0,Nov-61,CLASSIFIED,https://marvel.fandom.com/wiki/Benjamin_Grimm_(Earth-616),CLASSIFIED
+6,CLASSIFIED,Reed Richards,Mister Fantastic,Dr. Reed Richards,"Big Brain, Brain-Box, Brains, Doctor Doom, Doctor Fantastic, Dr. Reed Richards, Doctor Richards The Explorer, The Invincible Man, The Man in the Mystery Mask, Mr Elastic, Mr. F, Mr. Fantastical, Mr. Look-At-Me-I'm-So-Fantastic, Plastic Man, Professor Richards, Reed Benjamin, The Rubber Man, Stretch",Good ,Brown / Brown ,Male ,Living ,6.0,2.0,2.0,5.0,1.0,3.0,Nov-61,CLASSIFIED,https://marvel.fandom.com/wiki/Reed_Richards_(Earth-616),CLASSIFIED
+7,1009351,Hulk ,Hulk,Dr. Robert Bruce Banner,"Annihilator, Ant-Man, Anti-Hulk, Banner of the Apes, Big Man, Bob Danner, Bruce Bancroft, Bruce Barnes, Bruce Baxter, Bruce Bixby, Bruce Davidson, Bruce Franklin, Bruce Green, Bruce Jones, Bruce Roberts, Bruce Ross, Bruce Smith, Captain Universe, David Banner, David Bannon, David Bixby, Devil, Devil Hulk, Doc, Doc Green, Dr. Bob Banner, Eye of Rage, Friday, Fulk, Gargoyle, Glenn Summers, Golem, Gray Goliath, Gray Hulk, Green Brute, Green-Genes, Green Golem, Green Goliath, Green Hulk, Greenie, Green King, Green One, Green Scar, Greenskin, Grulk, Haarg, Harkanon, He-Hulk, Hideous Green One, Holku, Hulkerino, Hulksicle, Hulkster, Hulkus Doofus, Hulky, Incredible Qantas, Jade Giant, Jade Jaws, Joe Fixit, 'Jolly Green Village Idiot', Joseph Brown, King of Smash, Kluh, La Mole , Mechano, Merged Hulk, Mighty Bob, Mongrel Spawn Of Science, Mr. Bergen, Mr. Green, Mr. Fixit, Mr. Scar, Ol' Green Skin/Greenskin, Once-Savage, One Below All, Patient #113, Professor, Robert Baker, Ross Oppenheimer, Sakaarson, Son of Sakaar, Terran Behemoth, The Eye of Anger, The Healer, The Hulking Hammer of Hope and Horror, The Liberator, The Savior, 'The Universe', Two-Hands, Two-Minds/Two Minds, War, Wendihulk, World Breaker, and numerous other aliases",Good ,Brown / Brown ,Male ,Living ,8.0,7.0,3.0,7.0,6.0,4.0,May-62,http://marvel.com/comics/characters/1009351/hulk?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Bruce_Banner_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg
+8,1009257,Scott Summers,Cyclops,Scott Summers,"Apocalypse, Captain Commander, Cyke, Dark Phoenix, Eric the Red, Fearless Leader, The First X-Man, Gloomy-Face, Leader-Man, Little Slim, Mutate 007, One-Eye, One-Eyed Wonder, Scott Cyclops, Scotty, Slim, Slym Dayspring, Sparky, Xavier Junior",Neutral ,Brown / Brown ,Male ,Living ,3.0,2.0,2.0,2.0,5.0,4.0,Sep-63,http://marvel.com/comics/characters/1009257/cyclops?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Scott_Summers_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad.jpg
+9,1009356,Jonathan Storm,Human Torch,"Jonathan Lowell Spencer ""Johnny"" Storm","Blaze, Cosmic Torch, Cyrus Cartwright, Doctor Doom, Doug Brown, Firebug, Flamebrain, Flamin' Numbskull, Herald of Galactus, Hot Guy, Hothead, Hotshot, Invisible Boy, Junior, Matchhead, Matchstick, Pipsqueak, Prince Myshkin, Ryan Landau, Sundance, Torchie, Torch,",Good ,Blue / Blond ,Male ,Living ,2.0,2.0,5.0,8.0,5.0,3.0,Nov-61,http://marvel.com/comics/characters/1009356/human_torch?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Jonathan_Storm_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917.jpg
+10,1009175,Henry McCoy,Beast,"Dr. Henry Philip ""Hank"" McCoy","Agile Avenger, Blue, Golden Armed Boy, Hanko, Kreature, Magilla Gorilla Mutant #666,, ""Monkey Man"", Monkey, Dr. M, Tabby, Beastie Boy, Tanar McCoy",Good ,Blue / Blue ,Male ,Living ,5.0,4.0,3.0,4.0,1.0,4.0,Sep-63,http://marvel.com/comics/characters/1009175/beast?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Henry_McCoy_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/80/511a79a0451a3.jpg
+11,1009366,Susan Storm,Invisible Woman,"Dr. Susan ""Sue"" Storm Richards","Franklin Storm ;
+Mary Storm ;
+Marygay Jewel Dinkins ;
+Evelyn Richards ;
+Nathaniel Richards ;
+Jonathan Storm ;
+Reed Richards ;
+Franklin Richards ;
+Valeria Richards ;
+Vil and Wu ;
+Bones :
+Lyja ;
+
+Venom ",Good ,Blue / Blond ,Female ,Living ,3.0,2.0,3.0,6.0,5.0,3.0,Nov-61,http://marvel.com/comics/characters/1009366/invisible_woman?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Susan_Storm_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52695b9cd40b6.jpg
+12,CLASSIFIED,Namor McKenzie,King Namor,Namor McKenzie,"Avenging Son, Chicken of the Sea,  Dr. G.W. Falton, Ducklips, Emperor of the Deep, Fish-Man, Gill-Face, Imperius Rex, Joe Pierre, King Namor The First, King Of The Seas, Long John Silver, Lord of the Seven Seas, ""Mr. Big"", Namor the First, Phoenix, Phoenix King, ""Piscatorial Pirate,"" ""Rex, Sea King Sealord, Sub-Mariner, ""Subby""",Neutral ,Green / Black ,Male ,Living ,2.0,6.0,3.0,6.0,2.0,4.0,REDACTED,CLASSIFIED,https://marvel.fandom.com/wiki/Namor_McKenzie_(Earth-616),CLASSIFIED
+13,1009629,Ororo Munroe,Storm,Ororo Munroe,"Beautiful Windrider, Blue, Emma Frost , Goddess, Hadari Yao/Hadari-Yao , High Priestess, Horseman of Life, La Reine Storm , Mistress of the Elements, Mutate #020, Ororo Iqadi T'Challa , Ororo Komo Wakandas , Princess of N'Dare, Queen Ororo of Wakanda, 'Ro, Sista Storm ""Sister Voodoo"", Weather Witch , White King, Windrider",Good ,Blue / White ,Female ,Living ,2.0,2.0,3.0,2.0,5.0,4.0,May-75,http://marvel.com/comics/characters/1009629/storm?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Ororo_Munroe_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d.jpg
+14,1009338,Clinton Barton,Hawkeye,"Clinton Francis ""Clint"" Barton","Bowman, Br‘er Hawkeye, Bruno, Captain America/Cap, Constrictor, Dreadknight, Dr. Rogers, Father Time, Friend Bowman, Golden Archer, Goliath, the Hawkeye Kid, Hawkeye the Marksman, Hawkguy, Longbow, Louis, Man-Hawkeye, Mr. Costello, Purple Man, Robin Hood, Ronin, Seagate Superhuman Cellblock Prisoner 334556, The Other Hawkeye",Good ,Blue / Blond ,Male ,Living ,3.0,2.0,2.0,2.0,1.0,6.0,Sep-64,http://marvel.com/comics/characters/1009338/hawkeye?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Clinton_Barton_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b.jpg
+15,1009262,Matthew Murdock,Daredevil,"Matthew Michael ""Matt"" Murdock","Captain Universe, Daredevil 1.0, Death's Head, The Devil, DD, Double-D, Frog-Man, Gary, Guardian Devil, Hornboy, Hornhead, Horn-Head, Ikari, Jack Batlin, Jester, Kingpin, Kingpin of Crime, Kingpin of Hell's Kitchen, Laurent LeVasseur, Man Without Fear, Matty, Michael ""Mike"" Murdock, Mister Faversham, The Most Dangerous Man Alive, Mr. Devil, Nameless One,Ray Mallory, Red, Red Man, Salvatore ""Side Pockets"" Buchetto, Scarlet Avenger, Scarlet Swashbuckler, Shades, Thor, The Vigil",Good ,Blue / Red ,Male ,Living ,3.0,3.0,2.0,2.0,4.0,5.0,Apr-64,http://marvel.com/comics/characters/1009262/daredevil?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Matthew_Murdock_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/d/50/50febb79985ee.jpg
+16,1009282,Stephen Strange,Doctor Strange,Dr. Stephen Vincent Strange,"Black Priest, Cape Man, Captain Universe, Doc, Doc Dollars, Dr. Sparkles, Doctor Vague, Dr. Whatisname, Dumb Magician, the Eye, Iron Mage, Master of Black Magic, Red Rajah, Sheriff Strange, Sherlock, Sorcerer Supreme, Stephen Sanders, Steven/Steve, Steverino, Strange, Master of the Mystic Arts, Vincent Stevens, Wizard",Good ,Grey / Black ,Male ,Living ,4.0,2.0,9.0,2.0,6.0,6.0,Jul-63,http://marvel.com/comics/characters/1009282/doctor_strange?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Stephen_Strange_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe.jpg
+17,1009708,Mary Jane Watson,Mary Jane Watson,"Mary Jane ""MJ"" Watson","Red, Red Sonja, Emma Holmes, Mary Jane Watson-Parker, Mrs. Spider-Man, Friendly Neighborhood Spider-Wife, Spider-Wife, Mrs. Webs, Mrs. Parker, Copper Top, Mary Reilly, Janie, Mary Morgan, Crimson She-Devil, Iron Spider, Mystery Girl",Good ,Green / Red ,Female ,Living ,2.0,2.0,2.0,2.0,1.0,2.0,Jun-65,http://marvel.com/comics/characters/1009708/mary_jane_watson?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Mary_Jane_Watson_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/03/528d33d000749.jpg
+18,1009372,John Jonah Jameson,J. Jonah Jameson,"John Jonah Jameson, Jr.","J. J. Jameson, JJJ, The Sensational Spider-Mayor, Flat-Topped Fink, J. Jonah Happyface, Spider-Tracer Killer/S.T.K , J. Jonah Jerkwad, Red Rajah",Neutral ,Blue / Black ,Male ,Living ,3.0,2.0,2.0,2.0,1.0,3.0,Mar-63,http://marvel.com/comics/characters/1009372/j_jonah_jameson?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/John_Jonah_Jameson_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5269582835689.jpg
+19,1009362,Robert Drake,Iceman,"Robert Louis ""Bobby"" Drake","Department X, X-Men , X-Men , Murder Circus , Excelsiors , The Twelve, X-Factor/X-Terminators , The Chosen , Secret Defenders, Fantastic Four, Defenders, Champions ",Good ,Brown / Brown ,Male ,Living ,2.0,3.0,3.0,4.0,5.0,4.0,Sep-63,http://marvel.com/comics/characters/1009362/iceman?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Robert_Drake_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52696c836898c.jpg
+20,CLASSIFIED,Henry Pym,Giant-Man,"Dr. Henry Jonathan ""Hank"" Pym","Ant-Man, ""Bumble-Bee"", ""Boss Man"" , Earth's Scientist Supreme, Gigantus, Goliath, The Mage, The Master of Many Sizes, Scientific Adventurer, Ultron, Wasp, Yellowjacket,",Good ,Blue / Blond ,Male ,Living ,6.0,7.0,3.0,3.0,6.0,3.0,Jan-62,CLASSIFIED,https://marvel.fandom.com/wiki/Henry_Pym_(Earth-616),CLASSIFIED
+21,1009504,Charles Xavier,Professor X,Dr. Charles Francis Xavier,"Acushla, Bald Phoenix, Baldy, Charlie, Charley, Charley-Boy, Chuck, Cue Ball, Dr. X, The Good Shepherd, Nathaniel Essex, Onslaught, Prisoner M-13, Proffy, Proud Task-master, Sinister, Task-master, ""telepathic Mahatma Gandhi of the mutant cause"", X",Good ,Blue / None,Male ,Deceased ,5.0,2.0,2.0,2.0,5.0,3.0,Sep-63,http://marvel.com/comics/characters/1009504/professor_x?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Charles_Xavier_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525.jpg
+22,CLASSIFIED,Warren Worthington III,Angel,Warren Kenneth Worthington III,"""Gabriel"", Apocalypse, Dark Angel of Death, Dark Angel, Death, Avenging Angel, Savior of the Chosen, ""Angel of Death"", W. W.,  ""Overgrown Mosquito"", ""Little Sparrow"", Horseman of Life, ""Little Mr. Modest"", ""the one with wings"", ""arrogant one"", Bird Man Wing Man, Fourth Horseman, Pretty Boy, Michael The Archangel, 'Hellspawn', 'Abomination', 'Spawn of Satan', 'Son of Darkness'",Good ,Blue / Blond ,Male ,Living ,3.0,2.0,3.0,2.0,1.0,4.0,Sep-63,CLASSIFIED,https://marvel.fandom.com/wiki/Warren_Worthington_III_(Earth-616),CLASSIFIED
+23,1009243,Piotr Rasputin,Colossus,"Piotr Nikolaievitch ""Peter"" Rasputin","Chrome Dome, The Destroyer of Worlds, Juggernaut, The Killer of Worlds, Little Brother, Pete, Peter Nicholas, Petey, Phoenix, The Proletarian, Russkie, War",Good ,Blue / Black ,Male ,Living ,2.0,6.0,2.0,6.0,1.0,4.0,May-75,http://marvel.com/comics/characters/1009243/colossus?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Piotr_Rasputin_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51127cf4b996f.jpg
+24,1009562,Wanda Maximoff,Scarlet Witch,Wanda Maximoff,"Ana Maximoff, Emperor of Magic, Fine Sorceress, Little Witch, Pretender, Queen of Chaos, Wanda Django Maximoff, Wanda Frank, Wanda the Witch, Wendy, Witch",Good ,Green / Brown ,Female ,Living ,3.0,2.0,2.0,2.0,6.0,3.0,Mar-64,http://marvel.com/comics/characters/1009562/scarlet_witch?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Wanda_Maximoff_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b.jpg
+25,1009471,Nicholas Fury,Nick Fury,"Nicholas Joseph ""Nick"" Fury, Sr.","Agent A-1, Doyle, Gemini, Man in the Mystery Mask, Mr. Anger, Mr. Ollen, Nick Fury, Nicky Boy, Patch, Rudolf Valentino, Scorpio, Sgt. Fury, The Man on the Wall, The One-Eyed Man, The Unseen",Neutral ,Brown / Brown ,Male ,Living ,3.0,2.0,2.0,2.0,1.0,6.0,May-63,http://marvel.com/comics/characters/1009471/nick_fury?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Nicholas_Fury_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d.jpg
+26,1009707,Janet van Dyne,Wasp,Janet Van Dyne,"""Dingaling Jan, The Airhead Heiress"", Doctor Spectrum, ""Fashion Fly"", Giant-Woman, Jan, Janet Pym, Pixie, ""Tinkertoots"", ""Waspie"", the Winsome Wasp, the Wonderful Wasp, The Wondrous Wasp,",Good ,Blue / Auburn ,Female ,Living ,3.0,7.0,3.0,2.0,4.0,4.0,Jun-63,http://marvel.com/comics/characters/1009707/wasp?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Janet_Van_Dyne_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5390dfd5ef165.jpg
+27,CLASSIFIED,Jean Grey,Marvel Girl,Jean Elaine Grey-Summers,"Redd Dayspring, ""Red"", ""Jeannie"", Ms. Psyche, Marvel Le Fey, Phoenix, White Phoenix of the Crown, ""Jeanie,"" ""Cute Tomato,"" ""Red Riding Hood""",Good ,Green / Red ,Female ,Deceased ,3.0,2.0,10.0,9.0,13.0,4.0,Sep-63,CLASSIFIED,https://marvel.fandom.com/wiki/Jean_Grey_(Earth-616),CLASSIFIED
+28,1009189,Natalia Romanova,Black Widow,"Natalia Alianovna ""Natasha"" Romanova","Annie Oakley, Babette, Beauteous One, Black Pearl, Boss Lady, Czarina, Ebon Flame, Enchantress, Laura Matthers, Lottie Hederman, Madame Nikita, Ms. Heck, Nadine Roman, Nancy Rushman, ""Nat,"" Natalie Grey, Natalya Romanova, Natasha Romanoff, Natalia Shostakova, Natuska, Oktober, Red, Red Cat, 'Tasha, Tsarina, War Widow, Yelena Belova",Good ,Green / Red ,Female ,Living ,3.0,3.0,2.0,3.0,3.0,6.0,Apr-64,http://marvel.com/comics/characters/1009189/black_widow?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Natalia_Romanova_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg
+29,1009472,Kurt Wagner,Nightcrawler,Kurt Wagner ,"Captain, Bamf, Elf, Fuzzy-blue, Fuzzy Elf, Gainsborough, Great Boggie, Herr Indigo, The Daredevil Demon, The Flying Fiend, The Magnificent Monster,",Good ,Yellow / Blue ,Male ,Living ,3.0,2.0,10.0,2.0,1.0,3.0,May-75,http://marvel.com/comics/characters/1009472/nightcrawler?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Kurt_Wagner_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/1/40/526034979bc98.jpg
+30,1009697,Vision,Vision,"""The Vision"" ","Alex Lipton, Ghost of Stone, Human Torch, Jim Hammond, Manikin, Red, Victor Shade, Yellowjacket",Good ,Gold / None ,Male ,Living ,4.0,5.0,3.0,6.0,6.0,3.0,Oct-68,http://marvel.com/comics/characters/1009697/vision?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Vision_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594.jpg
+31,1009490,May Reilly,May Parker,"Maybelle ""May"" Parker-Jameson, née Reilly","Aunt May, May Reilly, May Parker, May Fitzgerald, Golden Oldie, May Morgan",Good ,Blue / Grey ,Female ,Living ,2.0,1.0,1.0,1.0,1.0,1.0,Aug-62,http://marvel.com/comics/characters/1009490/may_parker?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Maybelle_Reilly_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/c/30/535fec80bb4a6.jpg
+32,CLASSIFIED,Katherine Pryde,Red Queen,"Katherine Anne ""Kate"" Pryde","Ariel, Captain Kate Pryde, Cat, Daughter of Demon, Florence Prydengale, Half-Pint, K, Katerina Pryde, Kathryn Pryde, Katya, Kätzchen, Kitten, Kitty, Kitty Freud, ""Lady Shadra of the Cat People,"" Lion, Petal, Professor K, Professor Kitty, Pun'kin, Shadowcat, Sprite, Star-Lord, Star-Lady, Suburbia",Good ,Hazel / Brown ,Female ,Living ,4.0,2.0,2.0,3.0,1.0,5.0,Jan-80,CLASSIFIED,https://marvel.fandom.com/wiki/Katherine_Pryde_(Earth-616),CLASSIFIED
+33,CLASSIFIED,Carol Danvers,Captain Marvel,Carol Susan Jane Danvers Car-Ell ,"Accuser, Ace, Binary, Black Widow, Captain Danvers, Car-Ell Danvers, Carol Daniels, Captain Whiz Bang, Catherine Donovan, Cheeseburger, Doctor Strange, Gloria Steinem, Karolya Danilovska, Lady Marvel, Linda Danvers, Major Danvers, Ms. M, Ms. Marvel, Warbird, Venom",Good ,Blue / Blond ,Female ,Living ,3.0,5.0,5.0,6.0,5.0,4.0,Mar-68,CLASSIFIED,https://marvel.fandom.com/wiki/Carol_Danvers_(Earth-616),CLASSIFIED
+34,1009351,Jennifer Walters,Hulk,"Jennifer Sue ""Jen"" Walters","Agent Walters, Earth-Sow, Freakjob, Gamma Gal/Glamma Gal, Gamora, Ghost-Girl, Glamazonia, Green-Blooded Bimbo, Green Cheeks, Greenie, Green-Haired Hussy, Green Jeans, Hulkette, Hulking Harlot, Iron Hulk, Jade Jezebel, Jade Giantess, Jennifer Smith, Jenny/Miss Jenny, Jenny Jameson, Jenny Jameson-Walters, Jenny-Poo, Lady Hulk, Mrs. Jameson, Queen Green, Savage She-Hulk, 'Sensational Choking She-Hulk', The Sensational She-Hulk, She-Hulk, 'She-Me', She-Xemnu, Shulk, ""Shulkie"", Thunder Hulk",Good ,Green / Brown ,Female ,Living ,3.0,7.0,3.0,6.0,1.0,4.0,Feb-80,http://marvel.com/comics/characters/1009351/hulk?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Jennifer_Walters_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg
+35,CLASSIFIED,Emma Frost,White Queen,Emma Grace Frost,"Black King, Black Queen, Diamond Lass, Emmy, Ice Princess , Ice Queen, Perfection Phoenix, Queen of Crystal Heart, Storm ",Neutral ,Blue / Brown ,Female ,Living ,4.0,6.0,2.0,7.0,6.0,3.0,Jan-80,CLASSIFIED,https://marvel.fandom.com/wiki/Emma_Frost_(Earth-616),CLASSIFIED
+36,CLASSIFIED,Frank Castle,The Punisher,Frank G. Castle ,"Big Boy, Big Nothing, Big Shoulders, Captain America, Charles Fort, Cliff Callador, 'Fank of Earth', Francis Stronghold, Frank Hut, Frankie/Frankieboy, Frank Rook, Frank Tower, Frankie Villa, Fred D'Amato, James Maxwell, John Conway, John Smith, Johnny Tower, Kanapua'a, Little Hunter, Mr. Chaloner, Mr. Herr Schloss, Mister Man, Mr. Smith, Mr. Villa, Prisoner 616, sadprincess14 , Scourge of the Underworld, Skull-Chest Meat-Shell, Skull-Face Guy, Ted Bishop, Tiny Hunter, Tiny Monkey",Neutral ,Blue / Black ,Male ,Living ,3.0,3.0,2.0,2.0,1.0,6.0,Feb-74,CLASSIFIED,https://marvel.fandom.com/wiki/Frank_Castle_(Earth-616),CLASSIFIED
+37,1009215,Luke Cage,Luke Cage,Luke Cage ,"James Lucas ;
+Esther Lucas ;
+Joanne Lucas ;
+James Lucas Jr. ;
+Jessica Jones ;
+Danielle Cage ;
+Mrs. Campbell ;
+Dave Campbell ;
+
+Phillip Campbell ;",Good ,Brown / Black ,Male ,Living ,3.0,4.0,2.0,5.0,1.0,4.0,Jun-72,http://marvel.com/comics/characters/1009215/luke_cage?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Luke_Cage_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c.jpg
+38,1009546,Rogue ,Rogue,Anna Marie LeBeau ,"Unnamed paternal grandfather ;
+Unnamed maternal grandparents ;
+Owen ;
+Priscilla ;
+Carrie ;
+Remy LeBeau ;
+Raven Darkholme ;
+Irene Adler ;
+Kurt Wagner  
+Graydon Creed ;
+Gloria Brickman ;
+Justine Chase ;
+Cole Chase ;
+Trevor Chase ;
+Tenia Jean ;
+possibly two unnamed unofficial foster nieces;
+possibly unnamed unofficial foster great-nephew;
+Ruth Aldine ;
+
+Luca Aldine ;",Good ,Green / Auburn ,Female ,Living ,10.0,12.0,12.0,13.0,8.0,10.0,REDACTED,http://marvel.com/comics/characters/1009546/rogue?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Rogue_(Anna_Marie)_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/10/5112d84e2166c.jpg
+39,CLASSIFIED,Conan,Conan of Cimmeria,"Conan I, born Conan","""King of Aquilonia and Emperor of the Aquilonian Empire"", ""King Conan, Monarch of Aquilonia, Master of Poitain from the Alimane to the Khoratas, Protector of the Baronies of the Westermarck and of Thandara, Guarantor of the Bossonian Marches and of Gunderland, Overlord of..."", ""Conan, Sovereign of Aquilonia, Overlord of Poitain, Protector of the Westermarck, Master of the Bossonian Marches...""
+
+Conan Corim-Son, Conan the Cimmerian, Conan, the Cimmerian, Conan of Cimmeria, Conan of the North, Conan the Northron, Conan the Zuagir, Conan of Aquilonia, Conan of the Isles; possibly Conan of Zothique
+
+
+Conan the Conqueror, Conan the Conquerer, Conan the Destroyer, Conan of the Reavers, Conan the Reaver, Conan of the Blue Eyes, Conan, the Manhunter, Conan the Renegade, Conan the Warrior, Conan the Avenger, Conan the Slayer, Conan the Throat-Slitter, Conan the Liberator, Conan Magus, ""King of Kings"", ""Toppler of Empires"", The Dragon Slayer, Kukulcan, Yedrath Kroll , the God-Slayer
+
+
+Amra, Lion of the waves, Atalu, Co-Nan
+
+
+Kalna, Kalna-Kafir; Presented himself as ""Rasirith"", ""Shirkuh, late of Zamora"", ""Ishbak"", Thun'Da of the Snowmane ""Natoli"", ""Crispis""",Neutral ,Blue / Black ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Oct-70,CLASSIFIED,https://marvel.fandom.com/wiki/Conan_(Earth-616),CLASSIFIED
+40,1009545,Joseph Robertson,Robbie Robertson,"Joseph ""Robbie"" Robertson","Samuel Robertson ;
+Alice Robertson ;
+Martha Robertson ;
+Randolph Robertson ;
+Patrick Robertson ;
+unnamed sister-in-law;
+Amanda Robertson ;
+
+Chloe Robertson ",Good ,Brown / White ,Male ,Living ,3.0,2.0,2.0,2.0,1.0,2.0,Aug-67,http://marvel.com/comics/characters/1009545/robbie_robertson?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Joseph_Robertson_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003c50a94b7.jpg
+41,1009524,Pietro Maximoff,Quicksilver,Pietro Django Maximoff ,"Fast-Feet, Gypsy Davy, Magnusson, Mateo Maximoff, Mr. Maximus, Pietro Frank, Pretty Boy, Quicky, Silver Speedster, Son Of The Demon, Speedfeet, ""Speedy"",",Good ,Blue / Silver ,Male ,Living ,3.0,4.0,5.0,3.0,1.0,4.0,Mar-64,http://marvel.com/comics/characters/1009524/quicksilver?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Pietro_Maximoff_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53176ffc42f58.jpg
+42,1009343,Hercules,Hercules,Hercules Panhellenios ; ,"Herak, Herc
+Agent 125, The Defender of Olympus, Demon Defier, Giant Slayer, ""Herakles Giant-Killer"", Hero Of All Heroes, The Lion of Olympus, The Mighty Hercules Olympian god of Strength,
+Prince of Power,, The Scion of Olympus
+Curly, Forgotten One/Gilgamesh/Hero, Harry Cleese, Muscle Boy, Sign-Bearer of The Plains Lord, Skirt Man, Spider-Herc, Victor Tegler,
+
+Sham , Siamat,Tarkukt, Utshpna",Good ,Blue / Brown ,Male ,Living ,2.0,7.0,2.0,6.0,1.0,4.0,Oct-65,http://marvel.com/comics/characters/1009343/hercules?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Hercules_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53.jpg
+43,1009281,Victor von Doom,Doctor Doom,Dr. Victor von Doom,"Armored One, Baron of Iron, Beast of the Balkans, Destroyer of Worlds, Doc, Doc Doom, Doctor Iron Doom, Doctor of all dictators, Doom, Doomie, Doom Rex, Doom the Destroyer, Dr. Victor Von Doom, God, God Emperor Doom, Hans, Invincible Man, Iron Man, President Metal Man, Rabum Alal, The Damned, The Great Destroyer, The Master, The New Apprentice, Vicky Boy, Vincent Vaughn  Human Torch, Mister Fantastic, and Norman McArthur)",Bad ,Brown / Brown ,Male ,Living ,6.0,4.0,5.0,6.0,6.0,4.0,Jul-62,http://marvel.com/comics/characters/1009281/doctor_doom?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Victor_von_Doom_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17.jpg
+44,1009417,Max Eisenhardt,Magneto,Max Eisenhardt,"Auschwitz I.D. #24005 , ""The Creator"", Eric Lensher, Erik Magnus Lehnsherr, Erik the Red, Grey King, King Erik Magnus, the Leader, Magnus, Master , Master of Magnetism, Merciless Magneto, Michael Xavier, Miraculous Magneto, Mr. Sullivan, Phantom Saboteur, ""Red,"" White King, White Pilgrim",Neutral ,Grey / None,Male ,Living ,5.0,2.0,5.0,2.0,6.0,4.0,Sep-63,http://marvel.com/comics/characters/1009417/magneto?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Max_Eisenhardt_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5261a7e53f827.jpg
+45,1009223,Elizabeth Braddock,Captain Britain,"Elizabeth ""Betsy"" Braddock","Sir James Braddock ;
+Elizabeth Hartwood Braddock ;
+Jamie Braddock ;
+Brian Braddock ;
+Meggan Braddock ;
+Maggie Braddock ;
+John Braddock 
+
+Betsy Braddock ",Neutral ,Blue / Purple ,Female ,Living ,2.0,6.0,4.0,6.0,5.0,4.0,Dec-76,http://marvel.com/comics/characters/1009223/captain_britain?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Elizabeth_Braddock_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/50/4dbf0e5d57226.jpg
+46,1009592,Norrin Radd,Silver Surfer,Norrin Radd,"Captain Universe, Carnage Cosmic, Champion of the Universe, Chrome Dome, Chrome-Plate, Commander, Cosmic Messiah, Cosmic Wanderer, Dark Surfer, Doom-Bringer, Dr. Norrin Radd: Sorcerer Supreme, Galactic Messiah, Gleambody, God of Light, Herald of Galactus, John Doe, Keeper, Lightlord/Light Lord, ""Mr. Clean"", Nor-Vill, Norville Rapaport, O'Glorious One, Protector of the Universe, Sakaarson, The Saviour/Savior, Sentinel of the Spaceways, Sentry, Shiny, Shiny-Head, ""Shiny Man"", Sky-Rider, Sky-Rider of the Spaceways, Silverado, Silver Savage, Silverskin, Sojourner, Spiral-King, Sterling Breath, Surferer, ""Surfer Mam,"" Surfer Man, The Awaited One, The Cosmic Surfer, Triangle's Tip, Uni-Lord, Void Knight",Good ,Blue / None,Male ,Living ,3.0,7.0,7.0,6.0,7.0,2.0,Mar-66,http://marvel.com/comics/characters/1009592/silver_surfer?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Norrin_Radd_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/50/527bb6490a176.jpg
+47,1009325,Norman Osborn,Norman Osborn,Norman Virgil Osborn,"Green Goblin, Carnage, Cletus Kasady, Commander Osborn, Director Osborn, Gobby, Goblin, Goblin King, Goblin Kingpin of Crime, Goblin Lord, Great and Terrible, Hobgoblin, Os-Man, Iron Patriot, Mason Banks, Normal Osborn, Normie, Octo-Goblin, Overlord, President Osborn, President Goblin, Red Goblin, Scrier, Stormin' Norman, Storm-Guy, Stormy, Super-Adaptoid",Bad ,Blue / Auburn ,Male ,Living ,4.0,4.0,3.0,4.0,3.0,3.0,Jul-64,http://marvel.com/comics/characters/1009325/norman_osborn?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Norman_Osborn_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51e829cd06982.jpg
+48,CLASSIFIED,Eugene Thompson,Agent Anti-Venom,"Eugene ""Flash"" Thompson","Agent A-V, Agent of the Cosmos, Agent Venom, Anti-Venom, Codename: 4563, Contingency C, Corporal Thompson, Flesh Thom-Sen, Gene Heisman, Hail Mary, The Mother Superior of Punishment, Venom, Victor Edward, White Knight; mistaken for Hobgoblin, Spider-Man, and Flash-Man",Good ,Blue / Strawberry Blond ,Male ,Living ,2.0,6.0,3.0,8.0,1.0,3.0,Aug-62,CLASSIFIED,https://marvel.fandom.com/wiki/Eugene_Thompson_(Earth-616),CLASSIFIED
+49,1009719,Simon Williams,Wonder Man,Simon Williams,"Avengers Unity Division, Underground, X-Men , Lethal Legion, Mighty Avengers , Avengers West Coast , S.H.I.E.L.D., Force Works, Masters of Evil, Revengers, Legion of the Unliving",Good ,Red / Grey ,Male ,Living ,4.0,7.0,4.0,6.0,2.0,4.0,Oct-64,http://marvel.com/comics/characters/1009719/wonder_man?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Simon_Williams_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322.jpg
+50,1009219,Samuel Guthrie,Cannonball,"Samuel Zachery ""Sam"" Guthrie","The Boy High Lord, Farmboy, Hayseed, Hick-A-Billy, Kentucky, Mason-Dixon, Sam, Sammy, Sammy Boy, Samson Guthry, Samuel Zachary, possibly misspelled) Starshine,",Good ,Blue / Blond ,Male ,Living ,2.0,2.0,4.0,6.0,3.0,4.0,Nov-82,http://marvel.com/comics/characters/1009219/cannonball?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Samuel_Guthrie_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c00407fb91b5.jpg
+51,1010740,James Buchanan Barnes,Winter Soldier,James Buchanan Barnes,"Buck, Buckaroo, Bucky, Bucky Barnes, Canary, Cap, Captain America, Captain Asshat, Jim Barnes, The Man on the Wall, Sidekick, W.S.,",Good ,Brown / Brown ,Male ,Living ,2.0,4.0,2.0,3.0,1.0,6.0,Mar-41,http://marvel.com/comics/characters/1010740/winter_soldier?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/James_Buchanan_Barnes_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/d/03/5265478293c1e.jpg
+52,1009313,Remy LeBeau,Gambit,Remy Etienne LeBeau ,"Le Diable Blanc, Robert Lord, Dirge, Death, Gumbo, Cajun, Loverbayou, Swamp Rat, Clint Barton, ""Gamby Baby"", Sir Anthony Ellis",Good ,Black Eyeballs/ Brown ,Male ,Living ,2.0,2.0,2.0,2.0,2.0,4.0,Jul-90,http://marvel.com/comics/characters/1009313/gambit?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Remy_LeBeau_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/a/40/52696aa8aee99.jpg
+53,CLASSIFIED,Daniel Rand,Iron Fist,"Daniel Thomas ""Danny"" Rand-K'ai","2.0, Cooper Payton, Daniel-Kai, Daniel Thomas Rand, Danny Rand, Daredevil, Daredevil 2.0, Devil, Hong Kong Phooey, Kung Fu Killer, Slipper-Boy, Spider-Man, Uncle Danny, Young Dragon",Good ,Blue / Blond ,Male ,Living ,3.0,2.0,2.0,3.0,3.0,6.0,May-74,CLASSIFIED,https://marvel.fandom.com/wiki/Daniel_Rand_(Earth-616),CLASSIFIED
+54,CLASSIFIED,Nathan Summers,CLASSIFIED,CLASSIFIED,CLASSIFIED,Neutral ,Blue / White ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Jan-86,CLASSIFIED,https://marvel.fandom.com/wiki/Nathan_Summers_(Earth-616),CLASSIFIED
+55,CLASSIFIED,Elizabeth Brant,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / Brown ,Female ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Sep-63,CLASSIFIED,https://marvel.fandom.com/wiki/Elizabeth_Brant_(Earth-616),CLASSIFIED
+56,1009379,Richard Jones,Rick Jones,"Richard Milhouse ""Rick"" Jones","Albert Jones ;
+Elizabeth Jones ;
+Polly ;
+Marlo Chandler-Jones ;
+Elsa Chandler ;
+Keith Chandler, Ray Chandler, three unidentified others ;
+
+Jackie Shorr ",Good ,Brown / Brown ,Male ,Living ,2.0,2.0,2.0,2.0,1.0,4.0,May-62,http://marvel.com/comics/characters/1009379/rick_jones?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Richard_Jones_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5274112b036ff.jpg
+57,CLASSIFIED,Edwin Jarvis,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Blue / White ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Nov-64,CLASSIFIED,https://marvel.fandom.com/wiki/Edwin_Jarvis_(Earth-616),CLASSIFIED
+58,1009337,Alexander Summers,Havok,"Alexander ""Alex"" Summers","Oscar Summers ;
+Daniel Summers ;
+Amanda Mueller ;
+Gloria Dayne ;
+unnamed paternal great-grandfather ;
+unnamed paternal great-grandmother ;Philip Summers ;
+Deborah Summers ;
+Christopher Summers ;
+Katherine Summers ;
+Andrew Blanding ;
+Joanna Blanding ;
+Scott Summers ;
+Gabriel Summers ;
+Adam Neramani ;
+Ahmet Abdol ;
+Haley Blanding ;
+Todd Blanding ;
+Madelyne Pryor-Summers ;
+Jean Grey-Summers ;
+Cal'syee Neramani ;
+Madelyne Pryor-Summers ;
+Scotty Summers ;
+Katie Summers ;
+Nathaniel Summers ;
+Aliya Dayspring 
+Hope Summers 
+Rachel Grey ;
+Rachel Summers  ;
+Nate Grey ;
+Stryfe ;
+Tyler Dayspring ;
+
+Hope Summers ;",Good ,Blue / Blond ,Male ,Living ,3.0,2.0,2.0,3.0,5.0,3.0,Mar-69,http://marvel.com/comics/characters/1009337/havok?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Alexander_Summers_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5261659ebeaf8.jpg
+59,CLASSIFIED,Patricia Walker,Hellcat,"Patricia ""Patsy"" Walker","Cat, The Cat, Cat-Girl, 'Double Clawed Cat Full Of Red Hell Fire With Her Head Against The Wind And Comes Not Quietly From The Great Sea Road', Happy-Go-Lucky Hellcat, H.C., Miss America, Patricia Baxter, Patricia Hellstrom, Patsy-Girl, Patsy I'm-Starting-To-Hate-You Walker, Patsy Walker Hellstrom, Penelope Lovelight, Pussycat, Red, Scarlet O'Hairdo, Señorita Cat",Good ,Blue / Red ,Female ,Living ,3.0,4.0,2.0,3.0,1.0,5.0,Nov-44,CLASSIFIED,https://marvel.fandom.com/wiki/Patricia_Walker_(Earth-616),CLASSIFIED
+60,1009356,Human Torch ,Human Torch,The Human Torch,"Badge #234001, ""Firebug"", the Fire Master,First of the Marvels, Iron Torch, Jim Ames, Jim Hammond, Pappy , The Torch",Good ,Blue / Blond ,Male ,Living ,2.0,3.0,3.0,3.0,5.0,4.0,Oct-39,http://marvel.com/comics/characters/1009356/human_torch?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Human_Torch_(Android)_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917.jpg
+61,1009407,Loki Laufeyson,Loki,Loki Laufeyson,"God of Mischief, God of Evil, Prince of Evil, Prince of Lies, the Son of Secrets, the Maker of Mischief, the Sly One, the Lord of all Liars, Lie-Smith, Sly-God, Shape-Changer, Wizard of Lies, Loki Trick-Skin, Tso Zhung, Loren Olson, the Trickster of Asgard, Ikol, Serrure, Gem-Keeper, Willie Lawson, Lester, Tyfon, Typhon, Father Williams, Loki The Deceiver, during the 1940s and 50s he briefly called himself Satan on occasion; As a shape-changer, Loki has impersonated many individuals  Idunn) and many other things and people on Asgard and Earth",Neutral ,Green / Black ,Genderfluid ,Living ,5.0,9.0,10.0,6.0,7.0,3.0,Aug-49,http://marvel.com/comics/characters/1009407/loki?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Loki_Laufeyson_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/d/90/526547f509313.jpg
+62,CLASSIFIED,Franklin Nelson,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Blue / None,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Apr-64,CLASSIFIED,https://marvel.fandom.com/wiki/Franklin_Nelson_(Earth-616),CLASSIFIED
+63,CLASSIFIED,Brian Braddock,Captain Avalon,Dr. Brian Braddock,"Bee, ""Britain"", Britanic, Black Bishop, Black Knight, Cap, Captain Britain, Captain Britain-616, Captain Wakanda, C.B., Custodian, Fast Buck, ""Jungle Man"", King of Otherworld, Lionheart of Avalon, ""Lord Fancy-Crack, Ponce Protector Of The Shire"", Merlinson, Prince Brian, ""Stranger"", Squire, The Young Lion Of London",Good ,Blue / Blond ,Male ,Living ,5.0,6.0,4.0,6.0,3.0,4.0,Oct-76,CLASSIFIED,https://marvel.fandom.com/wiki/Brian_Braddock_(Earth-616),CLASSIFIED
+64,CLASSIFIED,Otto Octavius, Spider-Man,Dr. Otto Gunther Octavius,"Doctor Octopus, Doc Ock, Friendly Neighborhood Spider-Man, Master Planner, Prisoner #4756689, Peter Benjamin Parker, Superior Spider-Man, ""Slick"", ""Spidey"", ""Web-Slinger"", Venom, Superior Venom, Doctor, Master Programmer",Neutral ,Hazel / Brown ,Male ,Deceased ,5.0,6.0,5.0,5.0,1.0,4.0,Jul-63,CLASSIFIED,https://marvel.fandom.com/wiki/Otto_Octavius_(Earth-616),CLASSIFIED
+65,CLASSIFIED,James Rhodes,War Machine,"James Rupert ""Jim"" Rhodes","Commander Rhodes, Electro, Hulk Machine, Iron Man, Iron Man 2.0, Iron Patriot, The Mighty Atom, ""The Pilot"", Rhodey, Shellshock, ""Whiskey Mike"", Var Machine",Good ,Brown / Brown ,Male ,Living ,3.0,6.0,5.0,6.0,6.0,4.0,Jan-79,CLASSIFIED,https://marvel.fandom.com/wiki/James_Rhodes_(Earth-616),CLASSIFIED
+66,1009284,Timothy Dugan,Dum Dum Dugan,"Timothy Aloysius Cadwallader ""Tim"" Dugan ","S.T.A.K.E., C.R.A.D.L.E.; Formerly Howling Commandos , S.H.I.E.L.D., Howling Commandos PMC, , Great Wheel of the Zodiac, 1950s Avengers, United States Army, British Army, Deadly Dozen, Stark Seven",Good ,Blue / Red ,Male ,Deceased ,2.0,2.0,2.0,2.0,1.0,4.0,May-63,CLASSIFIED,https://marvel.fandom.com/wiki/Timothy_Dugan_(Earth-616),CLASSIFIED
+67,1009255,Crystalia Amaquelin,Crystal,Crystalia Amaquelin,"Kobar, La ;
+Quelin ;
+Ambur ;
+Azur ;
+Mander ;
+Medusalith Amaquelin  ;
+Blackagar Boltagon  ;
+Luna Maximoff ;
+Ahura Boltagon ;
+Triton ;
+Karnak ;
+Maximus ;
+Psynapse ;
+Pietro Maximoff  ;
+Ronan  separated, deceased);
+
+Wanda Maximoff  ",Good ,Green / Strawberry Blond ,Female ,Living ,2.0,2.0,2.0,2.0,4.0,3.0,Dec-65,http://marvel.com/comics/characters/1009255/crystal?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Crystalia_Amaquelin_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/c0/52695564bcf1e.jpg
+68,1009297,Samuel Wilson,Falcon,"Samuel Thomas ""Sam"" Wilson","Blackbird, Blackwing, Brother Super-Hero, Cap-Wolf, Captain America, Captain Falcon, Robin, Snap Wilson, Willie Samuels",Good ,Brown / Black ,Male ,Living ,2.0,2.0,3.0,2.0,1.0,4.0,Sep-69,http://marvel.com/comics/characters/1009297/falcon?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Samuel_Wilson_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5111505fb7009.jpg
+69,CLASSIFIED,Wilson Fisk,Mayor Fisk,Wilson Grant Fisk ,"Fatty, Harold Howard, Kingpin, Mayor Kingpin, Santa Claus, Stay Puft, The Brainwasher, The Undertaker, Wilbur, Willie, Shamu",Bad ,Blue / None,Male ,Living ,3.0,3.0,2.0,2.0,1.0,5.0,Jul-67,CLASSIFIED,https://marvel.fandom.com/wiki/Wilson_Fisk_(Earth-616),CLASSIFIED
+70,1009480,Odin Borson,Odin,Odin Borson,"All-Father, Val-Father, the All-God, Atum-Re, Infinity, Wōden/Woden , Wotan , Wulf the Wanderer, the Wild Huntsman, Orrin, Farma-god, Hanga-god, Hapta-god, Harbard, Odin One-Eye, Sigtyr, Wad, Raven-God, Odin the Usurper, Usurper, Destroyer, Desecrator, Odin Giant-Killer",Neutral ,Blue / White ,Male ,Living ,7.0,6.0,7.0,7.0,7.0,4.0,Oct-62,http://marvel.com/comics/characters/1009480/odin?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Odin_Borson_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/00/539a06a64b262.jpg
+71,CLASSIFIED,Deadpool ,CLASSIFIED,CLASSIFIED,CLASSIFIED,Neutral ,Brown / None,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Feb-91,CLASSIFIED,https://marvel.fandom.com/wiki/Deadpool_(Wade_Wilson),CLASSIFIED
+72,CLASSIFIED,Dane Whitman,Black Knight,Dane Whitman,"Sir Percy of Scandia, Sir Raston, Eobar Garrington, Sir Henry, Sir William ;
+Lady Rosamund, Edward, Geoffrey ;
+Dafydd ap Iowerth, Arthur Pendragon, Mordred the Evil, Morgan Le Fay ;
+
+Nathan Garrett ;",Good ,Brown / Brown ,Male ,Living ,4.0,2.0,2.0,5.0,4.0,5.0,Dec-67,CLASSIFIED,https://marvel.fandom.com/wiki/Dane_Whitman_(Earth-616),CLASSIFIED
+73,CLASSIFIED,Harold Osborn,Kindred,"Harold Theopolis ""Harry"" Lyman  but still goes by Harry Osborn)","Alton Osborn, Sr. ;
+Alton Osborn, Jr. ;
+Amberson Osborn ;Norman Osborn ;
+Emily Lyman-Osborn ;
+Gabriel Stacy ;
+Sarah Stacy ;
+Liz Allan-Osborn ;
+Mark Raxton ;
+Lily Hollister ;
+Normie Osborn ;
+
+Stanley Osborn ",Good ,Blue / Brown ,Male ,Living ,8.0,6.0,5.0,6.0,4.0,2.0,Dec-65,CLASSIFIED,https://marvel.fandom.com/wiki/Harold_Osborn_(Earth-616),CLASSIFIED
+74,CLASSIFIED,Franklin Richards,Powerhouse,Franklin Benjamin Richards,"Avatar, Ego-Spawn, Frankie, Hyperstorm, Kid Franklin, Psi-Lord Richard Franklin, Squirt, Tattletale",Good ,Blue / Blond ,Male ,Living ,4.0,1.0,2.0,3.0,7.0,2.0,Nov-68,CLASSIFIED,https://marvel.fandom.com/wiki/Franklin_Richards_(Earth-616),CLASSIFIED
+75,CLASSIFIED,Jessica Drew,Spider-Woman,"Jessica Miriam ""Jess"" Drew","Arachne, Ariadne ""Dee"" Hyde, Childe of the Darkhold, Dark Angel, Drew Spawn, Enforcer , Erin Dyker, Hestia-3, Hunter, Mistress of the Black Blade, Ms. Drew , Porcupine , Red, Slaughter, Sybil Dvorak, Web-Lady Webby, Webs",Good ,Green / Auburn ,Female ,Living ,3.0,5.0,3.0,4.0,5.0,4.0,Feb-77,CLASSIFIED,https://marvel.fandom.com/wiki/Jessica_Drew_(Earth-616),CLASSIFIED
+76,CLASSIFIED,Roberto da Costa,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / Black ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Nov-82,CLASSIFIED,https://marvel.fandom.com/wiki/Roberto_da_Costa_(Earth-616),CLASSIFIED
+77,1009717,Rahne Sinclair,Wolfsbane,Rahne Sinclair ,"Angel-Killer Sinclair, Carrot Top, Firetop, Fleabag, Grimfang, Lassie, little wolf, Mutate #490, 'Once Disemboweled A Fellow Just To Watch Him Die' Girl, Princess/Queen Rain of Gesham, Rahney, Red,",Good ,Green / Red ,Female ,Living ,2.0,3.0,3.0,3.0,1.0,3.0,Nov-82,http://marvel.com/comics/characters/1009717/wolfsbane?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Rahne_Sinclair_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c003a687658c.jpg
+78,CLASSIFIED,Elizabeth Ross,Harpy,"Elizabeth ""Betty"" Ross Talbot Banner","Peter Ross ;
+Alexander Ross ;
+Elizabeth Ross  ;
+Betsy Ross 
+Jeffrey Mace 
+Thaddeus Ross ;
+Karen Lee Ross ;
+Glenn Talbot ;
+Bruce Banner ;
+Gwen ;
+Lyra ;
+Skaar ;
+
+Hiro-Kala ",Good ,Blue / Black ,Female ,Living ,5.0,11.0,5.0,12.0,4.0,5.0,May-62,CLASSIFIED,https://marvel.fandom.com/wiki/Elizabeth_Ross_(Earth-616),CLASSIFIED
+79,1009499,Lorna Dane,Polaris,Lorna Sally Dane,"M-2, Malice, ""Magneta"", Magnetrix, ""Magneto"" , Mistress of Magnetism, Pestilence, Weapon M-II",Good ,Green / Green ,Female ,Living ,2.0,3.0,5.0,2.0,5.0,3.0,Oct-68,http://marvel.com/comics/characters/1009499/polaris?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Lorna_Dane_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05.jpg
+80,CLASSIFIED,Blaine Colt,CLASSIFIED,CLASSIFIED,CLASSIFIED,REDACTED,Blue / Blond ,Male ,Deceased ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,REDACTED,CLASSIFIED,https://marvel.fandom.com/wiki/Blaine_Colt_(Earth-616),CLASSIFIED
+81,CLASSIFIED,Johnathon Blaze,Ghost Rider,"Johnathon ""Johnny"" Blaze","Bonehead, Brimstone Avenger, Brimstone Biker, Brother Blaze, The Burning Man, Dark Lord, Devil, Frank Ryder, Ghost Toasty, J.B., Johnny-Cakes, Matchstick, Skullhead, Spirit of Vengeance, The Riding Ghost, 'Whore of Heaven'",Good ,Blue / Reddish Blond ,Male ,Living ,2.0,4.0,5.0,5.0,4.0,2.0,Aug-72,CLASSIFIED,https://marvel.fandom.com/wiki/Johnathon_Blaze_(Earth-616),CLASSIFIED
+82,CLASSIFIED,Sif,Lady Sif,Sif,"The Dark-Haired Daughter of Asgard, Ericka Velez, Fairest of the Fair, Fair One, Fair Sif, Gentle Sif, Gentlest of the Gentle, Rose Chambers, Sif the Unstoppable, The Stunning Sif, Sybil, Tif, Tiffany",Good ,Blue / Black ,Female ,Living ,2.0,5.0,9.0,3.0,1.0,5.0,Mar-64,CLASSIFIED,https://marvel.fandom.com/wiki/Sif_(Earth-616),CLASSIFIED
+83,1011360,Red Hulk ,Red Hulk,"Thaddeus E. ""Thunderbolt"" Ross","Peter Ross ;
+Alexander Ross ;
+Elizabeth Ross ;
+Betsy Ross ;
+Jeff Mace ;
+Karen Lee Ross ;
+Betty Ross ;
+Glenn Talbot ;
+Bruce Banner ;
+Daydream ;
+
+Veda ",Neutral ,Blue / Black ,Male ,Living ,3.0,7.0,3.0,6.0,2.0,4.0,May-62,http://marvel.com/comics/characters/1011360/red_hulk?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Red_Hulk_(Thaddeus_Ross),http://i.annihil.us/u/prod/marvel/i/mg/5/90/5102cb7fc1262.jpg
+84,1009381,Jubilation Lee,Jubilee,Jubilation Lee,"Department X, Patsy Walker Temp Agency, Forgiven, New Warriors, X-Corps, Generation X",Good ,Brown / Black ,Female ,Living ,2.0,6.0,5.0,8.0,1.0,3.0,May-89,http://marvel.com/comics/characters/1009381/jubilee?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Jubilation_Lee_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e7a2148b6e59.jpg
+85,CLASSIFIED,Volstagg,Volstagg,Volstagg,"God of the Bloodstorm, Volstagg the Enormous, Volstagg the Voluminous, Volstagg the Valiant, Volstagg the Wise, Volstagg the Valorous, Volstagg the Staggeringly Perfect, Volstagg the Bloody Epic, Volstagg the Thin, Dr. Volstagg, the Lion of Asgard, Rolf Mueller, Vincent Starwit, the Gargantuan Gourmet, Volstagg the Cannibal , King Volstagg, War Thor",Good ,Blue / Red ,Male ,Living ,2.0,5.0,2.0,6.0,1.0,4.0,Aug-65,CLASSIFIED,https://marvel.fandom.com/wiki/Volstagg_(Earth-616),CLASSIFIED
+86,CLASSIFIED,Balder Odinson,Balder the Brave,Balder Odinson,"King Balder, Baldur, Baldr, Golden One, Annar, Balder Death-Bringer, Balder the Good, Balder the Loyal, the Gentle, the Bold, the true, the Protector, the Protector of all living things, Barry Landers, Lord of Corpses",Good ,Blue / Brown ,Male ,Deceased ,2.0,5.0,3.0,3.0,3.0,4.0,Oct-62,CLASSIFIED,https://marvel.fandom.com/wiki/Balder_Odinson_(Earth-616),CLASSIFIED
+87,1009312,Galactus,Galactus,Galan,"Galen, Ashta, Devourer of Worlds, Destroyer of Worlds, The Great Destroyer, The Great Devourer, The Monster of all Worlds, The Hunger That Does Not Cease, god of oblivion, Gah Lak Tus, herald of Franklin Richards, World-Eater/Planet-Killer, presumably Violet Devourer , Lifebringer, Buckethead, Bob's Big Boy, Hockey Stick Face",Neutral ,Brown / None ,Male ,Living ,7.0,7.0,7.0,7.0,7.0,2.0,Mar-66,http://marvel.com/comics/characters/1009312/galactus?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Galactus_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/03/528d31a791308.jpg
+88,CLASSIFIED,Danielle Moonstar,Mirage,"Danielle ""Dani"" Moonstar","Dark Rider, Hela's Dark Angel, Little Cheyenne, Mistress Moonstar, Pocahontas Psyche, Spellbinder, Valkyrie",Good ,Brown / Black ,Female ,Living ,2.0,2.0,2.0,2.0,4.0,4.0,Nov-82,CLASSIFIED,https://marvel.fandom.com/wiki/Danielle_Moonstar_(Earth-616),CLASSIFIED
+89,1009452,Marc Spector,Moon Knight,Marc Spector,"Asset Prime, Bullseye, Cowled Avenger, Crescent Crusader, Crescent Wrench, Fist of Khonshu, Fist of the Phoenix, Fist of Vengeance, Hero-Boy, Ian Waller, Jake Lockley, Knight of Moons, Lunar Legionnaire, Marky Mark, Moon Demon, Moon Knight One, The Moon Man, Mooney, ""Moony"", Mr. Knight, Sergeant Spector, Sheet Face, Spider-Man, Steven 'Steve' Grant, Stupid Moon Man, White Knight, Yitzak Topol",Good ,Brown / Brown ,Male ,Living ,2.0,3.0,2.0,3.0,1.0,4.0,Aug-75,http://marvel.com/comics/characters/1009452/moon_knight?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Marc_Spector_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/30/52028af90e516.jpg
+90,1009619,Gwendolyne Stacy,Gwen Stacy,"Gwendolyne Maxine ""Gwen"" Stacy ","Helen Stacy ;
+George Stacy ;
+Arthur Stacy ;
+Nancy Stacy ;
+Paul Stacy ;
+Jill Stacy ;
+Sarah Stacy ;
+Gabriel Stacy ;
+Abby-L ;
+Joyce Delaney ;
+
+Various other clones ",Good ,Blue / Blond ,Female ,Deceased ,4.0,2.0,2.0,2.0,1.0,1.0,Dec-65,http://marvel.com/comics/characters/1009619/gwen_stacy?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Gwendolyne_Stacy_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/8/40/4c003ad20ab78.jpg
+91,CLASSIFIED,Medusalith Amaquelin,Commander Medusa,Medusalith Amaquelin-Boltagon,"Kobar, La ;
+Quelin ;
+Ambur ;
+Azur ;
+Mander ;
+Crystal ;
+Black Bolt ;
+Ahura ;
+Karnak ;
+Triton ;
+Psynapse ;
+Maximus ;
+Ronan the Accuser ;
+Quicksilver ;
+
+Luna ",Good ,Green / Red ,Female ,Living ,3.0,3.0,2.0,3.0,1.0,4.0,Mar-65,CLASSIFIED,https://marvel.fandom.com/wiki/Medusalith_Amaquelin_(Earth-616),CLASSIFIED
+92,1009554,Sabretooth ,Sabretooth,Victor Creed,"Slasher, El Tigre, Der Schlächter, Mr. Silver, God of the Hunt, Murder Lord of the Eastern Hemisphere, The Daimsho Butcher, Vickie,",Bad ,Amber / Blond ,Male ,Living ,2.0,3.0,2.0,4.0,1.0,6.0,Aug-77,http://marvel.com/comics/characters/1009554/sabretooth?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Sabretooth_(Victor_Creed),http://i.annihil.us/u/prod/marvel/i/mg/1/00/4ce1895117793.jpg
+93,CLASSIFIED,Illyana Rasputina,Magik,Illyana Nikolievna Rasputina ,"Efim Rasputin ;
+Grigory Rasputin 
+Elena 
+Ivan 
+Grigory Rasputin 
+unnamed grandmother ;
+Mr. Mishchenko ;
+unnamed paternal aunt ;
+Vladimir Rasputin 
+Anatoly Rasputin ;
+Nikolai Rasputin 
+Alexandra Rasputina 
+Piotr Nikolaievitch Rasputin  ;
+Mikhail Nikolaievitch Rasputin ;
+Tra-Mai-A-Zath ;
+Peter Jr. ;
+Konstantin Rasputin 
+Klara Rasputina 
+Dimitriy Rasputin 
+Larisa Mishchenko ;
+Pavel Plotnick ;
+Lamar Plotnick ;
+Lavinia Plotnick ;
+Grisha ;
+Yuri ;
+
+Rasputin Family ;",Neutral ,Blue / Blond ,Female ,Living ,4.0,2.0,9.0,3.0,6.0,4.0,May-75,CLASSIFIED,https://marvel.fandom.com/wiki/Illyana_Rasputina_(Earth-616),CLASSIFIED
+94,1009535,Johann Shmidt,Red Skull,Johann Hermann Shmidt,"Power Elite , formerly Sturmabteilung, Schutzstaffel, Nazi Germany, Axis Mundi, Thule Society, Hydra, New World Order, Skeleton Crew, THEM, A.I.M., Nihilist Order, Project Bloodwash ; former ally of Exiles, People's Militia, Hate-Monger; creator of Scourge of the Underworld; former secret founder of the Watchdogs",Bad ,Blue / Blond ,Male ,Deceased ,5.0,5.0,5.0,5.0,1.0,6.0,Aug-41,http://marvel.com/comics/characters/1009535/red_skull?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Johann_Shmidt_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37.jpg
+95,CLASSIFIED,Fandral,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Blue / Blond ,Male ,Deceased ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Aug-65,CLASSIFIED,https://marvel.fandom.com/wiki/Fandral_(Earth-616),CLASSIFIED
+96,1009168,Sean Cassidy,Banshee,Sean Cassidy,"Liam Cassidy ;
+Patrick Rourke ;
+Maeve Rourke Cassidy ;
+Theresa Cassidy ;
+Thomas Cassidy ;
+Victoria Donnely ;
+
+Sean Madrox ",Neutral ,Green / Strawberry Blond ,Male ,Living ,3.0,2.0,4.0,3.0,5.0,4.0,Jan-67,http://marvel.com/comics/characters/1009168/banshee?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Sean_Cassidy_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54.jpg
+97,CLASSIFIED,Thomas Raymond,Toro,Thomas Raymond,"Flaming Kid, Human Torch, Flame Kid, Toro the Fire-Eating Boy",Good ,Blue / Black ,Male ,Living ,2.0,2.0,3.0,2.0,5.0,4.0,Sep-40,CLASSIFIED,https://marvel.fandom.com/wiki/Thomas_Raymond_(Earth-616),CLASSIFIED
+98,CLASSIFIED,Uatu,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Blue / None,Male ,Deceased ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Apr-63,CLASSIFIED,https://marvel.fandom.com/wiki/Uatu_(Earth-616),CLASSIFIED
+99,1009477,Richard Rider,Nova,"Richard ""Rich"" Rider","Anti-Nova, Bucket-Hat, Bucket-Head, ""Bullethead"", Centurion Nova Prime, Comrade Nova, Dark Nova, Dink, Evil Nova, Firestrike, First Centurion Prime, Human Rocket, Kid Nova, Nova Corps Centurion 11249-44396 Nova Corps Operative: 11249-44396, Nova Prime, Quasar, Richard-Human, Richard Ryder, Richie Rider, Select Nova, Xandarian Worldmind",Good ,Brown / Brown ,Male ,Deceased ,8.0,7.0,7.0,7.0,6.0,4.0,Sep-76,http://marvel.com/comics/characters/1009477/nova?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Richard_Rider_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/1/00/51756578d2a75.jpg
+100,CLASSIFIED,Hogun,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Grey / Black ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Aug-65,CLASSIFIED,https://marvel.fandom.com/wiki/Hogun_(Earth-616),CLASSIFIED
+101,1009465,Raven Darkholme,Mystique,Raven Darkholme,"#001034, Amichai Benvenisti, Agent Blaire, Apocalypse, B. Byron Biggs, Carol Danvers, Charles Xavier, Dazzler, Elektra, Foxx, Holt Adler, Jakob Eisen, Jean Grey, Kwannon, Lady Deathstrike, Leni Zauber, Mallory Brickman, Millicent Hardwick, Mr. Raven, Mr. Sinister, Psylocke, Raven Wagner, Rogue, Ronnie Lake, Spiral, Surge, Valerie Cooper, Victor Creed, White King, Wolverine and many others",Bad ,Yellow / Red ,Female ,Living ,4.0,2.0,2.0,4.0,1.0,5.0,Apr-78,http://marvel.com/comics/characters/1009465/mystique?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Raven_Darkholme_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/03/5390dc2225782.jpg
+102,1011220,Barbara Morse,Mockingbird,"Dr. Barbara ""Bobbi"" Morse","Agent 19, Barbara Morse Barton, Bobbi-Bird, Bobbi Van Dyne, Daughter of Darkness, Hestia-3, Huntress, Mrs. Hawkeye, Roberta Morse, S.H.I.E.L.D. Operative 9317, Shooting Star",Good ,Blue / Blond ,Female ,Living ,3.0,2.0,2.0,2.0,1.0,6.0,Jun-71,http://marvel.com/comics/characters/1011220/mockingbird?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Barbara_Morse_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9.jpg
+103,1009184,Blackagar Boltagon,Black Bolt,Blackagar Boltagon,"Black Bolt The Cruel, The Merciless, 'Blagbult', BB, Celestial Avatar, Celestial Messiah, Celestial Redeemer, Lord Blackagar/Lord Black Bolt, Midnight King, Prince Black Bolt, Wishbone,",Good ,Blue / Black ,Male ,Living ,2.0,9.0,3.0,3.0,5.0,4.0,Dec-65,http://marvel.com/comics/characters/1009184/black_bolt?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Blackagar_Boltagon_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/1/20/52696929dc721.jpg
+104,CLASSIFIED,Brunnhilde,Valkyrie,"Brunnhilde   Brunhilde, Brynhildr)","Valkyrior , Doom's Avengers, Secret Avengers, Gods of Asgard, Lady Liberators, Defenders, Dragon Circle, Doom Maidens",Good ,Blue / Blond ,Female ,Living ,2.0,5.0,2.0,4.0,1.0,5.0,Dec-70,CLASSIFIED,https://marvel.fandom.com/wiki/Brunnhilde_(Earth-616),CLASSIFIED
+105,1009267,Alison Blaire,Dazzler,"Alison ""Ali"" Blaire","Agent Blaire, Alison Brown, Buzzler, La de los patinetes que canta, Dazz, Dazzler, Disco Dazzler, Dolores Rudolph, ""Lightengale,"" Sandy Blossom, Skippy, ""Songbird"", Brightengale",Good ,Blue / Strawberry Blond ,Female ,Living ,3.0,2.0,3.0,3.0,4.0,3.0,Feb-80,http://marvel.com/comics/characters/1009267/dazzler?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Alison_Blaire_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/10/4fe364b0a2177.jpg
+106,CLASSIFIED,Venom ,CLASSIFIED,CLASSIFIED,CLASSIFIED,Neutral ,Variable / None ,Agender ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,May-84,CLASSIFIED,https://marvel.fandom.com/wiki/Venom_(Symbiote)_(Earth-616),CLASSIFIED
+107,CLASSIFIED,John Walker,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Blue / Blond ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Nov-86,CLASSIFIED,https://marvel.fandom.com/wiki/John_Walker_(Earth-616),CLASSIFIED
+108,CLASSIFIED,Greer Grant,Tigra,Greer Grant Nelson,"Cat, Greer Garson,
+Greer Grant, Greer Sorenson, Grimalkin, Tiger-Woman, Werecat, Weretiger, Werewoman",Good ,Green / Black ,Female ,Living ,3.0,4.0,3.0,4.0,1.0,4.0,Nov-72,CLASSIFIED,https://marvel.fandom.com/wiki/Greer_Grant_(Earth-616),CLASSIFIED
+109,1010362,Karla Sofen,Moonstone,Dr. Karla Sofen,"Thunderbolts, Army of Evil, Masters of Evil, Dark Avengers , Femizons, the Corporation, former ally of Doctor Faustus, former partner of Blackout ",Neutral ,Blue / Blond ,Female ,Living ,4.0,9.0,10.0,9.0,11.0,3.0,Dec-75,http://marvel.com/comics/characters/1010362/moonstone?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Karla_Sofen_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/4/00/535ff3e867252.jpg
+110,1009558,William Baker,Sandman,William Baker,"Flint Marko, Flint Baker, Sylvester Mann, Quarryman, William ""Flint"" Marko, Agent Sands, Sandy, Scrappy",Neutral ,Brown / Brown ,Male ,Living ,2.0,6.0,2.0,6.0,1.0,4.0,Sep-63,http://marvel.com/comics/characters/1009558/sandman?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/William_Baker_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg
+111,1009228,Sharon Carter,Sharon Carter,Sharon Carter,"Agent 13, Fraulein Rogers, Gaea-1, Irma Kruhl, ""The Most Dangerous Spy in the World,"" Ronnie, Shary, Iron Patriot",Good ,Blue / Blond ,Female ,Living ,3.0,2.0,2.0,2.0,1.0,4.0,Mar-66,http://marvel.com/comics/characters/1009228/sharon_carter?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Sharon_Carter_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce59f2323b88.jpg
+112,1009185,Felicia Hardy,Black Cat,Felicia Sara Hardy,"Ashley Moon, Cat, Elodie Gros, ""Fee-Fee"", Felicity Harmon, Francesca Featherbottom, ""Kitten"", Kitty, Kitty-Cat, ""Leesh"", ""Licia"", ""Miss Kyle""",Bad ,REDACTED/ Blond ,Female ,Living ,2.0,6.0,5.0,2.0,4.0,3.0,Jul-79,http://marvel.com/comics/characters/1009185/black_cat?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Felicia_Hardy_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/e/03/526952357d91c.jpg
+113,1009382,Cain Marko,Juggernaut,Cain Marko,"Dr. Kurt Marko ;
+Marjorie Marko ;
+Sharon Xavier-Marko ;
+Professor Charles Xavier ;
+Cassandra Nova ;
+Lilandra Neramani ;
+David Haller ;
+Charles Xavier II ;
+
+Xandra ",Neutral ,Blue / Red ,Male ,Living ,2.0,7.0,2.0,7.0,1.0,4.0,Jul-65,http://marvel.com/comics/characters/1009382/juggernaut?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Cain_Marko_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca.jpg
+114,1010705,Monica Rambeau,Spectrum,Monica Rambeau,"Mighty Avengers, Nextwave, New Orleans Harbor Patrol, Avengers , Queen's Vengeance, Secret Avengers",Good ,Brown / Black ,Female ,Living ,3.0,2.0,6.0,4.0,6.0,4.0,REDACTED,http://marvel.com/comics/characters/1010705/spectrum?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Monica_Rambeau_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c0030bee8c86.jpg
+115,1011335,Maria Hill,Maria Hill,Maria Hill,"Force Works, CIA, formerly NYPD Deadpool Task Force, S.H.I.E.L.D. , Secret Avengers , Avengers, United States Marine Corps",Good ,Brown / Black ,Female ,Living ,4.0,2.0,2.0,2.0,1.0,4.0,5-Apr,http://marvel.com/comics/characters/1011335/maria_hill?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Maria_Hill_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/a/00/535ff3f5397cb.jpg
+116,CLASSIFIED,Ben Urich,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / Brown ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Jul-78,CLASSIFIED,https://marvel.fandom.com/wiki/Ben_Urich_(Earth-616),CLASSIFIED
+117,1009451,Heather Douglas,Moondragon,Heather Douglas,"Bald Chick, Baldy, Baldy Moon Lady, Dragon of the Moon, H. D. Steckley, Kojak, Lucy, Madame MacEvil, Moonie, Picard, Priestess, The Psychic Avenger",Good ,Blue / None,Female ,Living ,4.0,3.0,3.0,3.0,5.0,4.0,Jan-73,http://marvel.com/comics/characters/1009451/moondragon?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Heather_Douglas_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d2ebd6c5.jpg
+118,1010894,Millicent Collins,Millie the Model,"Millicent ""Millie"" Collins","Blonde Phantom,  the Blonde Bombshell, Millie the Marvel, Miss Strawberry, Miss Swingy Swimsuit, Miss Far-Out Fashion, Jill Smith, Miss Library, Miss US, Miss Oil Well, Princess Millee of Xgtfdbckh, Miss XX16500, Miss Smith Soap, the Yanson Girl, Magnificent Millie, Pie-Girl, Yvette, ""Chicklet"", Miss Barberton, ""Freckles"", ""Button"",",REDACTED,Blue / Blond ,Female ,Living ,2.0,2.0,2.0,2.0,1.0,2.0,Dec-45,http://marvel.com/comics/characters/1010894/millie_the_model?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Millicent_Collins_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c003597aefd0.jpg
+119,1009705,James Proudstar,Warpath,James Proudstar,"X-Force, Apaches, Hounds, Weapon X-Force, Hellions, Cable & Wisdom's X-Force, X-Corporation, Cyclops's X-Force",Good ,Brown / Black ,Male ,Living ,2.0,4.0,3.0,3.0,1.0,6.0,Jun-84,http://marvel.com/comics/characters/1009705/warpath?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/James_Proudstar_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/e0/526035de08b23.jpg
+120,1009306,Angelica Jones,Firestar,"Angelica ""Angel"" Jones","Xavier Institute for Mutant Education and Outreach, Central Park, Manhattan, New York City, New York; New Tian, California; Jean Grey School for Higher Learning, Salem Center, North Salem, Westchester County, New York; New Warriors Crash Pad, New York City, New York; Avengers Mansion, New York City, New York; Massachusetts Academy, Snow Valley, Massachusetts",Good ,Green / Red ,Female ,Living ,2.0,2.0,3.0,2.0,5.0,3.0,May-85,http://marvel.com/comics/characters/1009306/firestar?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Angelica_Jones_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/7/03/526032b8247e8.jpg
+121,CLASSIFIED,Edward Brock,Venom,"Edward Charles Allan ""Eddie"" Brock","Anti-Venom, Carnage, The Comeback King, Ed Brock, Edwin Brock, God of the Symbiotes, Host, King in Black, Lethal Protector, Mr. Sym, Rad Eddie, Sister Edwina, The Man of a Thousand Second Chances, Toxin, Vengeance, Whitey",Neutral ,Black / Blond ,Male ,Living ,3.0,4.0,2.0,6.0,1.0,4.0,Sep-86,CLASSIFIED,https://marvel.fandom.com/wiki/Edward_Brock_(Earth-616),CLASSIFIED
+122,CLASSIFIED,MacDonald Gargan,Virus,"MacDonald ""Mac"" Gargan","Sinister Six/Sinister Twelve, Egghead's Masters of Evil, Thunderbolts, Osborn's Avengers, H.A.M.M.E.R., Alchemax, Black Cat's Gang, Inklings, Anti-Symbiote Task Force, Slayer Swarm, Roxxon Energy Corporation, Tarantula's Organization, Cartels, Savage Six, Ravencroft Institute, The Hive",Bad ,Brown / None,Male ,Living ,2.0,5.0,3.0,5.0,1.0,2.0,Dec-64,CLASSIFIED,https://marvel.fandom.com/wiki/MacDonald_Gargan_(Earth-616),CLASSIFIED
+123,1009440,Mephisto,Mephisto,Mephisto ,"Satan, Maya, Lucifer, Beelzebub, the Devil, Prince of Lies, Prince of Devils, Lord of the Lower Depths, Mephistopheles, Legion, Old Nick, Nick Scratch, Doctor Bultar, Friend Impersonated Don Blake, Muffy, Jack Scratch, the Adversary, Great Corruptor, Devourer of Souls, Master of the Realm of Lost Souls, His Satanic Majesty, Evil Incarnate, Dark Lord of all that is Evil, Master of Malice, Securer of the Seven Sins, Whisperer in Darkness, Foul Pact Maker, Dread Persuader, Serpent, Spirit of Universal Lies, the Messenger, Lord of Darkness, Lord of the Lost Despair, Lord of Hate and Evil, Lord of Pain, Lord of the Dark Underworld, Lord of the Netherworld, Lord of Depravity, Lord of Evil, Lord of Temptation, Prince of Deceivers, Prince of Darkness, Prince of Liars, many others",Bad ,White / Black ,Male ,Living ,7.0,7.0,7.0,7.0,7.0,2.0,Dec-68,http://marvel.com/comics/characters/1009440/mephisto?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Mephisto_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/40/526034d178ddc.jpg
+124,CLASSIFIED,Tabitha Smith,Boom-Boom,Tabitha Smith,"Boomer, Doctor Madame McSplode, Firecracker, Meltdown, Mutate #35, Nancy Forrester, Tab, Tabby, Time Bomb, Z-list celebrity blonde,",Good ,Blue / Blond ,Female ,Living ,2.0,2.0,2.0,2.0,4.0,4.0,Nov-85,CLASSIFIED,https://marvel.fandom.com/wiki/Tabitha_Smith_(Earth-616),CLASSIFIED
+125,1009476,Jean-Paul Beaubier,Northstar,Jean-Paul Beaubier,"Jean-Baptiste Beaubier ;
+Unidentified mother ;
+adoptive parents, deceased);
+Unnamed father-in-law; 
+Unnamed mother-in-law;
+Jeanne-Marie Beaubier :
+Stevie Jinadu ;
+Kyle Jinadu-Beaubier ;
+Joanne Beaubier ;
+
+Louis Martin and Genevieve Martin (first cousins once removed,",Good ,Blue / Black ,Male ,Living ,2.0,2.0,6.0,3.0,3.0,3.0,Apr-79,http://marvel.com/comics/characters/1009476/northstar?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Jean-Paul_Beaubier_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c003d15985a0.jpg
+126,CLASSIFIED,Daniel Ketch,,Daniel 'Danny' Ketch,"'Bony', 'Captain Nicotine', 'Danny Boy', Dan Ketch, Ghost Rider, Ghostie, 'Heaven's Harlot, The Rider, the Riding Ghost, Spirit of Corruption, Spirit of Vengeance, The Wheeler",Neutral ,Green / Brown ,Male ,Living ,2.0,4.0,5.0,5.0,3.0,2.0,May-90,CLASSIFIED,https://marvel.fandom.com/wiki/Daniel_Ketch_(Earth-616),CLASSIFIED
+127,1009277,Neena Thurman,Domino,Neena Thurman ,"Dom, Samantha Wu, Tamara Winter, Elena Vladescu, Jessica Marie Costello, Luisa Mendoza, Beatrice, Christina Elizabeth Alioso, Priscilla Sutherland, Hope Eldridge, Olivia Blomquist",Good ,Blue / Black ,Female ,Living ,2.0,2.0,2.0,2.0,3.0,6.0,Mar-92,http://marvel.com/comics/characters/1009277/domino?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Neena_Thurman_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/f/60/526031dc10516.jpg
+128,CLASSIFIED,Wong,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / None,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Jul-63,CLASSIFIED,https://marvel.fandom.com/wiki/Wong_(Earth-616),CLASSIFIED
+129,1009652,Thanos,Thanos,Thanos,"Kronos ;
+Daina ;
+Uranos ;
+A'Lars ;
+Sui-San ;
+Zuras ;
+Eros ;
+Thane ;
+Rot ; 
+Several children ;
+Gamora ;
+Zorr ;
+Nebula ;
+Thena ;
+Sersi ;
+Thanosi ;
+
+Terraxia ",Bad ,Red / None ,Male ,Living ,6.0,7.0,10.0,6.0,6.0,4.0,Feb-73,http://marvel.com/comics/characters/1009652/thanos?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Thanos_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd.jpg
+130,1009577,Shang-Chi,Shang-Chi,Shang-Chi,"Shaka Kharn ;
+Zheng Zu ;
+Unnamed mother;
+Zheng Yi ;
+Zheng Shi-Hua ;
+Zheng Bao Yu, Kwai Far, Esme ;
+Moving Shadow, Brother Staff, ;
+Takeshi ;
+
+M'Nai ",Good ,Brown / Black ,Male ,Living ,3.0,2.0,2.0,2.0,1.0,7.0,Dec-73,http://marvel.com/comics/characters/1009577/shang-chi?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Shang-Chi_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/20/535ff3b116209.jpg
+131,CLASSIFIED,Alicia Masters,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / Strawberry Blond ,Female ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Nov-62,CLASSIFIED,https://marvel.fandom.com/wiki/Alicia_Masters_(Earth-616),CLASSIFIED
+132,CLASSIFIED,Robert Baldwin,Speedball,"Robert ""Robbie"" Baldwin","Baby-Killer, Bob Turner, Chatty, Kid-Killer, Masked Marvel, Penance, Speedy, The most hated man in America, Toothpick",Good ,Blue / Blond ,Male ,Living ,2.0,2.0,3.0,5.0,6.0,3.0,Sep-88,CLASSIFIED,https://marvel.fandom.com/wiki/Robert_Baldwin_(Earth-616),CLASSIFIED
+133,1010760,Vance Astrovik,Justice,Vance Astrovik,"Astounding Astrovik, Manglin' John Mahoney, Marvel Boy, Squire Justice, Superhuman Penitentiary Prisoner #344678, ""Super Tights""",Good ,Hazel / Brown ,Male ,Living ,3.0,2.0,3.0,5.0,5.0,3.0,Jul-75,http://marvel.com/comics/characters/1010760/justice?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Vance_Astrovik_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c0037678b4ff.jpg
+134,CLASSIFIED,Wendell Vaughn,Quasar,Wendell Elvis Vaughn,"S.H.I.E.L.D., Annihilators, Avengers, Star Masters, S.H.I.E.L.D. Super-Agents, security chief of Project P.E.G.A.S.U.S., Defenders for a Day, Vaughn Security Systems",Good ,Blue / Blond ,Male ,Living ,3.0,4.0,7.0,6.0,6.0,3.0,Jan-78,CLASSIFIED,https://marvel.fandom.com/wiki/Wendell_Vaughn_(Earth-616),CLASSIFIED
+135,CLASSIFIED,Chili Storm,CLASSIFIED,CLASSIFIED,CLASSIFIED,REDACTED,Green / Red ,Female ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Oct-48,CLASSIFIED,https://marvel.fandom.com/wiki/Chili_Storm_(Earth-616),CLASSIFIED
+136,CLASSIFIED,Abner Jenkins,MACH-X,"Abner Ronald ""Abe"" Jenkins","Formerly As MACH Thunderbolts, S.H.I.E.L.D., Commission on Superhuman Activities, Initiative
+As Beetle: Masters of Evil, Sinister Syndicate, Justin Hammer's 'hit squad'; Frightful Four, Sinister Seven, Defenders, Lethal Legion",Good ,Brown / Brown ,Male ,Living ,4.0,4.0,5.0,6.0,6.0,4.0,Aug-64,CLASSIFIED,https://marvel.fandom.com/wiki/Abner_Jenkins_(Earth-616),CLASSIFIED
+137,1009262,Elektra Natchios,Daredevil,Elektra Natchios,"Formerly S.H.I.E.L.D., Thunderbolts, Hand, Chaste, Heroes For Hire, Code Red, partner of Daredevil and Deadpool",Neutral ,Blue / Black ,Female ,Living ,3.0,2.0,2.0,3.0,1.0,6.0,Jan-81,http://marvel.com/comics/characters/1009262/daredevil?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Elektra_Natchios_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/d/50/50febb79985ee.jpg
+138,1009212,Bullseye ,Bullseye,Lester ,"Benjamin Poindexter , Lester Jangles, Leonard McClain, Daredevil, Punisher, Hawkeye, Bulls, Ronin",Bad ,Blue / Blond ,Male ,Living ,2.0,2.0,2.0,3.0,1.0,5.0,Mar-76,http://marvel.com/comics/characters/1009212/bullseye?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Bullseye_(Lester)_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/30/539a08f322fd1.jpg
+139,1009309,Forge,Forge,Unknown ,"Formerly X-Men, X-Force, Cheyenne, X-Factor, Muir Island X-Men, DARPA, ""New Mutants"" , Stark Industries",Good ,Brown / Black ,Male ,Living ,4.0,2.0,2.0,2.0,1.0,4.0,Aug-84,http://marvel.com/comics/characters/1009309/forge?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Forge_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/a/90/5269585071503.jpg
+140,CLASSIFIED,Virginia Potts,Rescue,"Virginia ""Pepper"" Potts","Stark Resilient, Lookups; Formerly Underground, Stark Industries, Order ",Good ,Green / Red ,Female ,Living ,2.0,7.0,7.0,7.0,5.0,2.0,Sep-63,CLASSIFIED,https://marvel.fandom.com/wiki/Virginia_Potts_(Earth-616),CLASSIFIED
+141,CLASSIFIED,Walter Langkowski,,Dr. Walter Langkowski,"The Ape, Box, Chewie, Dr. L, Muppet, Sasquatch, Walt, Wanda Langkowski, Wookie, Yelling-Thing",Good ,Blue / Blond ,Male ,Living ,5.0,6.0,2.0,4.0,1.0,3.0,Apr-79,CLASSIFIED,https://marvel.fandom.com/wiki/Walter_Langkowski_(Earth-616),CLASSIFIED
+142,CLASSIFIED,Gorgon,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / Brown ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Nov-65,CLASSIFIED,https://marvel.fandom.com/wiki/Gorgon_(Earth-616),CLASSIFIED
+143,1011056,James Madrox,Multiple Man,"James Arthur ""Jamie"" Madrox","Carbon Copy, Demon Madrox, Duplicate Man, He-Whose-Bodies-Are-As-Many-As-The-Leaves-On-A-Tree, Jamie Prime, Jim Madrox, John Maddox, Legion, Maddy, Madrox Prime, Multitask, Prime Madrox, Schizoid Man",Good ,Brown / Brown ,Male ,Living ,3.0,3.0,2.0,3.0,1.0,4.0,Feb-75,http://marvel.com/comics/characters/1011056/multiple_man?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/James_Madrox_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310e9dc27.jpg
+144,CLASSIFIED,Heimdall,Heimdall,Heimdall,"Donald Velez, Ezra, Heimdall the Faithful, the Immovable, the Eternal Vigilant, the All-Seeing, the All-hearing, the All-Seer, Son of Nine Mothers, Heimdal Riger",Good ,Grey / Brown ,Male ,Living ,2.0,5.0,3.0,3.0,1.0,4.0,Oct-62,CLASSIFIED,https://marvel.fandom.com/wiki/Heimdall_(Earth-616),CLASSIFIED
+145,CLASSIFIED,Theresa Cassidy,Morrigan,Theresa Rourke Cassidy,"Liam Cassidy ;
+Patrick Rourke ;
+Sean Cassidy  ;
+Maeve Rourke Cassidy ;
+Thomas Cassidy  ;
+Victoria Donnely ;
+
+Sean Madrox ",Good ,Green / Red ,Female ,Living ,2.0,2.0,4.0,2.0,5.0,3.0,Apr-81,CLASSIFIED,https://marvel.fandom.com/wiki/Theresa_Cassidy_(Earth-616),CLASSIFIED
+146,1009718,Laura Kinney,Wolverine,Laura Kinney,"Captain Universe, Coach Claudia Gwen Stacy, Laura Howlett, Lady Wolverine, Laura X, Samantha Fisk, Spider-Woman, Talon, X, X-23,",Good ,Green / Black ,Female ,Living ,2.0,2.0,3.0,4.0,1.0,6.0,4-Feb,http://marvel.com/comics/characters/1009718/wolverine?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Laura_Kinney_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf.jpg
+147,CLASSIFIED,Arthur Douglas,Drax the Destroyer,Arthur Sampson Douglas,"Art Douglas, Destroyer, Drax the Galactic Guardian, Drax the Meditator, Drax the Pacifist, Drax the Warrior, Mean Green, Mister Unknown, Nova, Pip, Venom",Good ,Blue / Brown ,Male ,Living ,2.0,5.0,2.0,7.0,7.0,4.0,Feb-73,CLASSIFIED,https://marvel.fandom.com/wiki/Arthur_Douglas_(Earth-616),CLASSIFIED
+148,CLASSIFIED,Peter Parker ,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Hazel / Blond ,Male ,Deceased ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Oct-75,CLASSIFIED,https://marvel.fandom.com/wiki/Peter_Parker_(Ben_Reilly)_(Earth-616),CLASSIFIED
+149,CLASSIFIED,Warlock ,Warlock,Warlock,"X-Factor , Techno, Inc., X-Men, Excalibur, Phalanx, Fallen Angels",Good ,Black / None ,Male ,Living ,2.0,7.0,7.0,7.0,6.0,2.0,Aug-84,CLASSIFIED,https://marvel.fandom.com/wiki/Warlock_(Technarch)_(Earth-616),CLASSIFIED
+150,1011081,Kevin Plunder,Ka-Zar,Lord Kevin Reginald Plunder,"Ka-Zar the the Savage, Lord of the Hidden Jungle, The Savage, Skrull-Zar",Good ,Blue / Blond ,Male ,Living ,2.0,3.0,3.0,2.0,1.0,5.0,Mar-65,http://marvel.com/comics/characters/1011081/ka-zar?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Kevin_Plunder_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/9/40/4dcc503738d3d.jpg
+151,CLASSIFIED,Leonard Samson,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / Green ,Male ,Deceased ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Jul-71,CLASSIFIED,https://marvel.fandom.com/wiki/Leonard_Samson_(Earth-616),CLASSIFIED
+152,1010693,Melissa Gold,Songbird,Melissa Joan Gold,"Formerly Thunderbolts , S.H.I.E.L.D., A.I.M., New Avengers, Masters of Evil, Grapplers, Unlimited Class Wrestling Federation, Femizons",Good ,Green / Blond ,Female ,Living ,2.0,2.0,3.0,6.0,4.0,4.0,Aug-79,http://marvel.com/comics/characters/1010693/songbird?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Melissa_Gold_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c0038da16738.jpg
+153,1009405,Lockheed,Lockheed,Unknown,"X-Men , S.W.O.R.D., Excalibur, ally of the New Mutants, Flock",Good ,REDACTED/ None ,Male ,Living ,3.0,2.0,3.0,2.0,4.0,4.0,Feb-83,http://marvel.com/comics/characters/1009405/lockheed?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Lockheed_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6465c79c5.png
+154,1010682,Mercedes Knight,Misty Knight,"Mercedes ""Misty"" Knight","NYPD, Daughters of the Dragon, Nelson and Murdock, Heroes for Hire, Misty Knight's Crew, Underground",Good ,Brown / Black ,Female ,Living ,3.0,3.0,2.0,2.0,3.0,6.0,Mar-72,http://marvel.com/comics/characters/1010682/misty_knight?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Mercedes_Knight_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863.jpg
+155,CLASSIFIED,Moira Kinross,Moira X,Dr. Moira Ann Kinross MacTaggert,"Kenneth Cowan ;
+Callum Cowan ;
+Dean Cowan ;
+Abigail Cowan ;
+Charles Xavier ;
+Lord Kinross ;
+Lady Kinross ;
+Joseph MacTaggert ;
+Kevin MacTaggert ;
+Rahne Sinclair ;
+Lord Alasdhair Kinross ;
+
+Queen Elizabeth II ",Good ,Blue / Brown ,Female ,Deceased ,5.0,2.0,2.0,2.0,1.0,4.0,Dec-75,CLASSIFIED,https://marvel.fandom.com/wiki/Moira_Kinross_(Earth-616),CLASSIFIED
+156,CLASSIFIED,Karnak,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Blue / Black ,Male ,Deceased ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Dec-65,CLASSIFIED,https://marvel.fandom.com/wiki/Karnak_(Earth-616),CLASSIFIED
+157,1009469,Namorita Prentiss,Namorita,Namorita Prentiss,"Namora 
+Talan 
+Betty Dean-Prentiss 
+Baby Dean 
+Namor 
+Byrrah, Dara, & Arkus 
+Thakorr 
+Korra 
+Fen 
+unnamed grandparents
+
+Atlantean Royal Family ",Good ,Blue / Blond ,Female ,Deceased ,2.0,5.0,3.0,5.0,4.0,4.0,Jun-72,http://marvel.com/comics/characters/1009469/namorita?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Namorita_Prentiss_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/4/03/528d33a253447.jpg
+158,CLASSIFIED,Lockjaw,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Brown / Brown ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Dec-65,CLASSIFIED,https://marvel.fandom.com/wiki/Lockjaw_(Earth-616),CLASSIFIED
+159,CLASSIFIED,Adam Warlock,Warlock,Adam Warlock,"Adam Magus, Avatar of Life, Avenging Hand of Light, The Deliverer, Demon, God Slayer, Golden Gladiator, Him, Jake Miller, Master of all Souls, Mr. Smith, Patient #6457987, Savior, Subject X-31, Ultimate Avenger, Ultron, Ultron-Phalanx",Good ,White / Gold ,Male ,Living ,3.0,5.0,10.0,6.0,6.0,2.0,Sep-67,CLASSIFIED,https://marvel.fandom.com/wiki/Adam_Warlock_(Earth-616),CLASSIFIED
+160,1009695,Heather McNeil,Vindicator,Heather McNeil Hudson,"Ramsey McNeil ;
+Claire McNeil ;
+Unnamed uncle 
+Becky McNeil ;
+5 unnamed brothers;
+James Hudson ;
+Claire MacNeil Hudson ;
+David MacNeil ;
+
+Yvette MacNeil ;",Neutral ,Green / Red ,Female ,Living ,3.0,2.0,3.0,3.0,6.0,3.0,Nov-80,http://marvel.com/comics/characters/1009695/vindicator?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Heather_McNeil_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c003a7f39967.jpg
+161,CLASSIFIED,Curtis Connors,CLASSIFIED,CLASSIFIED,CLASSIFIED,Neutral ,Red / None ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Nov-63,CLASSIFIED,https://marvel.fandom.com/wiki/Curtis_Connors_(Earth-616),CLASSIFIED
+162,1009420,Theodore Sallis,Man-Thing,"Dr. Theodore ""Ted"" Sallis","Bog Beast, Giant-Size Man-Thing, K'ad-Mon of the Fallen Stars, Keeper of Illusion, Man of the Lineage, the Manny, Mr. Salad, Swamp-Prophet, Swamp-God, Swamp Monster, Swamp Walker, Teddy, Vagornus Koth, Walking Mulch Heap,",Good ,Red / None ,Male ,Living ,1.0,3.0,1.0,7.0,2.0,1.0,May-71,http://marvel.com/comics/characters/1009420/man-thing?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Theodore_Sallis_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ce5a043191dc.jpg
+163,CLASSIFIED,Adrian Toomes,Vulture,Adrian Toomes,"Marcus Toomes ;
+Chery Toomes ;
+Frankie Toomes ;
+Valeria Toomes ;
+unnamed son;
+Ramona ;
+Lenora Toomes ;
+Malachi Toomes ;
+unnamed grandson;
+
+Tiana Toomes ",Bad ,Hazel / None,Male ,Living ,5.0,3.0,3.0,5.0,1.0,2.0,May-63,CLASSIFIED,https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-616),CLASSIFIED
+164,CLASSIFIED,Amora,Enchantress,Amora,"Amora Incantare, Amora Lorelei, Valkyrie, Leena Moran, Helen Eve, Idunn, Idun, Iduna, Mardöll , Freyja , Gefn , Christine Collins, Black Widow, numerous others",Bad ,Green / Blond ,Female ,Living ,4.0,4.0,9.0,6.0,6.0,2.0,Apr-64,CLASSIFIED,https://marvel.fandom.com/wiki/Amora_(Earth-616),CLASSIFIED
+165,1009239,Clea,Clea,Clea Strange,"G'uran, Oka'an ;
+Umar ;
+Orini ;
+Dormammu ;
+Olnar ;
+Doyle Dormammu ;
+Sinifer ;
+Doctor Stephen Strange ;
+
+Victor Strange ",Good ,Blue / White ,Female ,Living ,4.0,2.0,9.0,2.0,6.0,3.0,Nov-64,http://marvel.com/comics/characters/1009239/clea?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Clea_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c00406b55161.jpg
+166,CLASSIFIED,Mar-Vell,Captain Marvel,Mar-Vell,"Avengers ; formerly Imperial Kree Army, Defenders for a Day, The Organization, Legion of the Unliving",Good ,Blue / Blond ,Male ,Deceased ,3.0,4.0,7.0,3.0,5.0,4.0,Dec-67,CLASSIFIED,https://marvel.fandom.com/wiki/Mar-Vell_(Earth-616),CLASSIFIED
+167,1009513,Eugene Judd,Puck,Eugene Milton Judd,"X-Force, Beta Flight, Outcasts",Good ,Brown / None,Male ,Living ,3.0,4.0,3.0,3.0,1.0,6.0,Aug-83,http://marvel.com/comics/characters/1009513/puck?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Eugene_Judd_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003c7cc0d8f.jpg
+168,CLASSIFIED,Daimon Hellstrom,Hellstorm,Daimon Hellstrom,"Antichrist, Black Halo, the Devil, Hot Stuff, Jack Sprat, King of Hell, Larry Satan, Marduk Kurios; Prince of Lies, Satan, Son of Satan, Son of Satannish , White King of the Hellfire Club,",Neutral ,Red / Red ,Male ,Living ,3.0,2.0,2.0,4.0,6.0,2.0,Sep-73,CLASSIFIED,https://marvel.fandom.com/wiki/Daimon_Hellstrom_(Earth-616),CLASSIFIED
+169,1010811,John Jonah Jameson III,Man-Wolf,John Jonah Jameson III,"Carnage, Colonel John Jameson, John Jameson, Johnny, Johnny Jameson, L'Homme-Loup, Mrs. She-Hulk, Skywolf, Stargod Vanwolf,",Good ,Brown / Auburn ,Male ,Living ,3.0,2.0,2.0,2.0,1.0,3.0,Mar-63,http://marvel.com/comics/characters/1010811/man-wolf?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/John_Jonah_Jameson_III_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c7c641e86d14.jpg
+170,1010335,Triton,Triton,Unknown,"Magnar, Zeta ;
+Kobar, La ;
+Mander, ;
+Azur ;
+Rynda ;
+Ambur ;
+Agon ;
+Quelin ;
+Karnak ;
+Black Bolt, Medusa, Crystal, Luna ;
+Maximus ;
+
+Lineage  ",Good ,Green / None ,Male ,Living ,3.0,5.0,5.0,3.0,1.0,4.0,Dec-65,http://marvel.com/comics/characters/1010335/triton?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Triton_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/90/528d367108dfb.jpg
+171,CLASSIFIED,Meggan Puceanu,Gloriana,Meggan Puceanu Braddock,"William Puceanu ;
+Unnamed mother;
+Sir James Braddock ;
+Lady Elizabeth Braddock ;
+Brian Braddock ;
+Jamie Braddock ;
+Betsy Braddock ;
+Maggie Braddock ;
+
+Tenia Jean ",Good ,REDACTED/ REDACTED,Female ,Living ,2.0,11.0,4.0,9.0,7.0,3.0,Dec-83,CLASSIFIED,https://marvel.fandom.com/wiki/Meggan_Puceanu_(Earth-616),CLASSIFIED
+172,CLASSIFIED,Robert Reynolds,The Sentry,"Robert ""Bob"" Reynolds","The Ancient Mariner, Blue Buffoon, Blond Bombshell, Bobby, The Bullet, Fabio-Man, Golden Boy, Golden Guardian, Golden Guardian of Good, Golden Man, Golden One, Groovy Guardian of Good, Insect Man, John Victor ""Johnny"" Williams, Robbie, Robby, S-Man, Shadow Man, Silver Sentry, Silver Surfer, Soldier Supreme, The Void, World Breaker",Neutral ,Blue / Blond ,Male ,Living ,5.0,7.0,7.0,6.0,5.0,2.0,Sep-00,CLASSIFIED,https://marvel.fandom.com/wiki/Robert_Reynolds_(Earth-616),CLASSIFIED
+173,1009537,Aleksei Sytsevich,Rhino,Aleksei Mikhailovich Sytsevich,"Aleksei Popov, Alex, Alex O'Hirn, Big Horn Guy, Mecha-Rhino, Mr. Hornman, Ryan O'Smith, Tubby",Bad ,Brown / Brown ,Male ,Deceased ,2.0,11.0,3.0,11.0,1.0,2.0,Oct-66,http://marvel.com/comics/characters/1009537/rhino?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Aleksei_Sytsevich_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c003c58f1a0c.jpg
+174,1010692,Santo Vaccarro,Rockslide,Santo Vaccarro,"Formerly Xavier Institute student body, X-Men, Hounds, Spider-Man's Special Class, Young X-Men, New X-Men, Hellions Squad, Summers Institute student body",Good ,White / None ,Male ,Living ,2.0,4.0,2.0,7.0,1.0,3.0,3-Sep,http://marvel.com/comics/characters/1010692/rockslide?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Santo_Vaccarro_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg
+175,1010892,Jonathan Clay,Rawhide Kid,Jonathan Clay,"Sensational Seven, Buffalo Bill's Wild West Show",Good ,Blue / Red ,Male ,Living ,3.0,3.0,3.0,3.0,1.0,4.0,Aug-60,CLASSIFIED,https://marvel.fandom.com/wiki/Jonathan_Clay_(Earth-616),CLASSIFIED
+176,1010784,Ares,Ares,Ares,"Berserker Saint, Broom head, John Aaron, Mars, Mister Talon, Mr. Tallon, Thor-Lite, Warhawk",Neutral ,Brown / Brown ,Male ,Deceased ,2.0,5.0,2.0,6.0,1.0,7.0,Apr-49,http://marvel.com/comics/characters/1010784/ares?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Ares_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/c/10/535ff3daea603.jpg
+177,1010345,Sersi,Sersi,Sersi,"Helios ;
+Perse ;
+Arex, Ajak, Sprite, Ikaris, Thanos, ;
+
+Starfox ",Good ,Blue / Black ,Female ,Living ,4.0,4.0,12.0,7.0,7.0,2.0,Sep-76,http://marvel.com/comics/characters/1010345/sersi?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Sersi_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4.jpg
+178,1011051,Guido Carosella,Strong Guy,Guido Carosella,"Formerly X-Men, Sentinel Squad O*N*E*, New Mutants, Hell Lords , X-Factor Investigations, Singularity Investigations , X-Factor, bodyguard for Lila Cheney, agent of Mephisto and Jezebel",Neutral ,Brown / None,Male ,Living ,3.0,13.0,2.0,4.0,1.0,4.0,Jul-85,http://marvel.com/comics/characters/1011051/strong_guy?utm_campaign=apiRef&utm_source=e157759c23987b9631b87c9940a5eebd,https://marvel.fandom.com/wiki/Guido_Carosella_(Earth-616),http://i.annihil.us/u/prod/marvel/i/mg/2/10/4c00322a3173c.jpg
+179,CLASSIFIED,Zabu,CLASSIFIED,CLASSIFIED,CLASSIFIED,Good ,Green / Orange ,Male ,Living ,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,CLASSIFIED,Mar-65,CLASSIFIED,https://marvel.fandom.com/wiki/Zabu_(Earth-616),CLASSIFIED
